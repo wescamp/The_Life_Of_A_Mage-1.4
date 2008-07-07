@@ -1,0 +1,20 @@
+border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , 2 Re        , Gg          , Re          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , 1 Re        , 3 Gg        , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Re          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Gg          , Gg          , Re          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Re          , Re          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
