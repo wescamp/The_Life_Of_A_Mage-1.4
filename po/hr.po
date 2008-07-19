@@ -1,0 +1,4688 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-07-20 00:14+0200\n"
+"PO-Revision-Date: 2008-07-20 00:14+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [campaign]
+#: The_Life_Of_A_Mage/_main.cfg:11
+msgid "The Life of a Mage"
+msgstr ""
+
+#. [campaign]
+#: The_Life_Of_A_Mage/_main.cfg:18
+msgid "Apprentice=(easiest)"
+msgstr ""
+
+#. [campaign]
+#: The_Life_Of_A_Mage/_main.cfg:19
+msgid "Mage"
+msgstr ""
+
+#. [campaign]
+#: The_Life_Of_A_Mage/_main.cfg:20
+msgid "Great Mage=(hardest)"
+msgstr ""
+
+#. [campaign]
+#: The_Life_Of_A_Mage/_main.cfg:25
+msgid ""
+"The young boy Dillon only wanted to live his life in peace. After his "
+"village is destroyed by bandits however, he is forced to throw his lot with "
+"the magi. It is a difficult life, and little does he know that his destiny "
+"may lie along side that of Prince Arand II himself.\n"
+"\n"
+"(Intermediate level, 23 scenarios, Unfinished)\n"
+"version 0.2.7"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:28
+msgid "Campaign Design"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:34
+msgid "Current Maintainer"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:40
+msgid "Story"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:49
+msgid "Testing"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:55
+msgid "Graphics stolen from various versions of the following:"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:67
+msgid "Graphical Editing and Hodge-podging"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:73
+msgid "Music and Sound"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:3
+msgid "Townsquare"
+msgstr ""
+
+#. [side]: type=Peasant Child, description=Dillon
+#. [side]: type=Mage, description=Dillon
+#. [side]: type=Apprentice Mage, description=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:18
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:18
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:18
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:18
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:18
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:18
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:18
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:18
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:18
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:18
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:18
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:18
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:18
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:18
+#: The_Life_Of_A_Mage/scenarios/00_3_Council.cfg:18
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:17
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:18
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:18
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:17
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:18
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:18
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:18
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:18
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:18
+msgid "Dillon"
+msgstr ""
+
+#. [side]: type=Peasant Child, description=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:20
+msgid ""
+"Dillon is the son of Olaf, and is in line to become the patriarch of his "
+"village."
+msgstr ""
+
+#. [side]: type=Peasant, description=Urlaf
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:35
+msgid "Urlaf"
+msgstr ""
+
+#. [side]: type=Peasant, description=Nickolas
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:60
+msgid "Nickolas"
+msgstr ""
+
+#. [side]: type=Assassin, description=Karin
+#. [unit]: type=Shadow, description=Karin
+#. [unit]: type=Lich, description=Karin
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:71
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:270
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:503
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:84
+msgid "Karin"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:117
+msgid ""
+"It was in 523 YW, during Konrad and Li'sar's golden reign. It was a time of "
+"peace, and a small village went about its business."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:121
+msgid ""
+"The villagers had always supported each others needs, and they were very "
+"happy."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:125
+msgid ""
+"Olaf was the patriarch of the village, and was highly respected. Lylla, his "
+"wife, was trained in the arts of magic and healing."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:129
+msgid ""
+"The couple also had a son, but nobody knew anything about him. Olaf and "
+"Lylla never spoke of him, and it was rumored that he had simply disappeared."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:133
+msgid ""
+"It was not until they had a second son, that the villagers learned anything "
+"about him. Because his parents were so protective of the younger son, the "
+"villagers assumed that something had happened to their firstborn."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:137
+msgid ""
+"The second son was named Dillon, and he was to assume the role of partriarch "
+"when his father passed on. Funny how fate works..."
+msgstr ""
+
+#. [message]: role=NoGoodGuy
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:158
+msgid ""
+"It's no use! We can't withstand such forces! Dillon! Go for help! Lord "
+"Gilder should be just up the path!"
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#. [message]: speaker=unit
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:625
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:243
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:284
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:162
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:387
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:199
+msgid "But..."
+msgstr ""
+
+#. [message]: role=NoGoodGuy
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:166
+msgid "GO!"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:176
+msgid "Move Dillon to the Go Here icon in the north-east corner of the map."
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:107
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:65
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:63
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:83
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:147
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:180
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:408
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:334
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:369
+msgid "Death of Dillon"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:129
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:100
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:91
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:155
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:177
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:208
+#: The_Life_Of_A_Mage/scenarios/00_3_Council.cfg:56
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:142
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:184
+msgid "Turns run out"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:195
+msgid "Explore"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:199
+msgid "Nothing in particular"
+msgstr ""
+
+#. [effect]: type=fire
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:249
+msgid "missile"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:321
+msgid "It is in the beautiful spring that our story starts..."
+msgstr ""
+
+#. [message]: speaker=Olaf
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:326
+msgid "Ahh, what a day. It's the kind that makes you glad to be alive!"
+msgstr ""
+
+#. [message]: speaker=Lylla
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:330
+msgid "Oh yes, spring is so wonderful. Oh! Look at that lovely flower!"
+msgstr ""
+
+#. [message]: speaker=Lylla
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:334
+msgid "Dillon, why don't you go and play with your friends."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:338
+msgid "Yes, Mother."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:371
+msgid "Ha, ha, you know what to do, men! Plunder the village!"
+msgstr ""
+
+#. [message]: speaker=Olaf
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:375
+msgid "Bandits! Quick! Sound the alarm!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:379
+msgid "Yes sir!"
+msgstr ""
+
+#. [message]: speaker=Urlaf
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:383
+msgid "Protect the patriarch! Dillon, recruit some villagers to protect you!"
+msgstr ""
+
+#. [message]: speaker=Lylla
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:391
+msgid "Do as he says!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:395
+msgid "Yes, mother..."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:404
+msgid "Evade the bandits"
+msgstr ""
+
+#. [message]: role=Getoutguy
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:435
+msgid "That's it, Dillon. Go! Leave! Get help!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:454
+msgid "Wait! Dillon, or whatever your name is. I want to come with you!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:458
+msgid "What? Who are you?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:462
+msgid "My name is Lhyron, and I wish to aid you."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:466
+msgid "Very well, you may come with me."
+msgstr ""
+
+#. [message]: role=Peasantleave
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:491
+msgid "We will stay behind to help defend the village!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:495
+msgid "Yes, keep Karin off until I can return with reenforcements."
+msgstr ""
+
+#. [message]: speaker=Lylla
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:533
+msgid "Dillon!"
+msgstr ""
+
+#. [message]: speaker=Olaf
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:537
+#: The_Life_Of_A_Mage/utils/deaths.cfg:187
+msgid "No!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:541
+msgid "...oog..."
+msgstr ""
+
+#. [message]: speaker=Olaf
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:555
+msgid "No! Lylla!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:559
+msgid "Mother!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:570
+msgid "Father!"
+msgstr ""
+
+#. [message]: speaker=Lylla
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:574
+msgid "Olaf!"
+msgstr ""
+
+#. [message]: role=Childwelfare
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:589
+msgid "Oh! Have you no heart? Those are children!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:593
+msgid "Silence!"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:3
+msgid "Adventure"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:79
+msgid "Move Dillon to the end of the path"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:69
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:87
+msgid "Death of Lhyron"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:106
+msgid ""
+"Well, we've escaped from there. But we musn't rest for long, as we still "
+"have a long way to go, and no time to lose."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:110
+msgid "Anyway, who are you, and why were you so eager to come?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:114
+msgid "Well...you see, both my parents were slaughtered by those cowards!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#. [message]: speaker=Marcos
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:118
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:199
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:272
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:154
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:122
+msgid ""
+"Then, as I had nothing left, and I would probably be killed if I stayed, I "
+"decided I was going with you. It was rather selfish really..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:126
+msgid "You act as if you did not expect our village to survive."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:130
+msgid ""
+"Do you? You saw what they're up against. Do you honestly believe they can "
+"hold out until we return?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:134
+msgid "Which is why we must hurry! Come on!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:138
+msgid "I've always wanted to have an adventure. So I guess this is it."
+msgstr ""
+
+#. [message]: speaker=Glyros
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:143
+msgid "Hey! Who's that?"
+msgstr ""
+
+#. [message]: speaker=Blowyn
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:147
+msgid "Well, what do you know, escapees from the village!"
+msgstr ""
+
+#. [message]: speaker=Glyros
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:151
+msgid ""
+"They're probably going for help. How do you think Karin would feel about "
+"having the Lord Gilder on his tail?"
+msgstr ""
+
+#. [message]: speaker=Blowyn
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:155
+msgid ""
+"Ha ha! The question is, how much will he pay us for dispatching these two?"
+msgstr ""
+
+#. [message]: speaker=Glyros
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:159
+msgid "Hee hee!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:163
+msgid "Uh oh..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:174
+msgid "Ugh..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:184
+msgid "Ack..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:195
+msgid "No! Mother! Father..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:208
+msgid "Heh...adventure...bah..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:223
+msgid "Lord Gilder's castle should be just ahead!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:227
+msgid ""
+"Good! Who knows what will have happened to our village by now. We must make "
+"hast!"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/00_3_Council.cfg:3
+msgid "Council"
+msgstr ""
+
+#. [side]: type=Lord, description=Gilder
+#: The_Life_Of_A_Mage/scenarios/00_3_Council.cfg:30
+msgid "Lord Gilder"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/00_3_Council.cfg:52
+msgid "Move Dillon next to Lord Gilder"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:3
+msgid "Regrets"
+msgstr ""
+
+#. [side]: type=Assassin, description=Goren
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:83
+msgid "Goren"
+msgstr ""
+
+#. [side]: type=Assassin, description=Ungul
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:95
+msgid "Ungul"
+msgstr ""
+
+#. [objectives]
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:119
+msgid "Dillon and Lhyron can be defeated, but will still survive"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:121
+msgid "Defeat all enemy Leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:125
+msgid "Death of Lord Gilder"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:3
+msgid "First Try"
+msgstr ""
+
+#. [side]: type=Apprentice Mage, description=Dillon
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:19
+msgid "Dillon is trained in the arts of magic by master magi. His "
+msgstr ""
+
+#. [unit]: type=Necromancer, description=Slinian
+#. [side]: type=Apprentice Mage, description=Slinian
+#. [side]: type=Necromancer, description=Slinian
+#. [unit]: description=Slinian, type=Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:117
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:36
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:29
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:51
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:84
+msgid "Slinian"
+msgstr ""
+
+#. [side]: type=Arch Mage, description=Leogwyn
+#. [unit]: description=Leogwyn, type=Arch Mage
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:53
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:87
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:306
+msgid "Leogwyn"
+msgstr ""
+
+#. [unit]: description=Elycla, type=Arch Mage
+#. [side]: type=Arch Mage, description=Elycla
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:65
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:64
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:100
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:315
+msgid "Elycla"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:73
+msgid ""
+"Dillon raced across the plains, not noticing where he was going, so caught "
+"up in his despair. He did not even stop to rest when the night came, and he "
+"spent days without food or water. He finally collapsd in the vicinity of an "
+"old hermit's home. He immediately took Dillon in and nursed him back to "
+"health."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:77
+msgid ""
+"Dillon eventually overcame his shock at the news that Karin was his brother. "
+"But he never forgot the guilt he carried for killing his sibling."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:81
+msgid ""
+"The hermit was actually a retired mage, and he sensed great potential in "
+"Dillon. He sent Dillon and his friends to the Academy on the Isle of Anduin "
+"to be trained as magi. As Dillon grew older he began to learn the arts of "
+"magic. He rose in the ranks extremely fast. It seemed he had a gift for "
+"sorcery."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:85
+msgid ""
+"Apart from the typical studying and practicing of magic, the academy also "
+"trained magi in combat, and leadership."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:92
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:138
+msgid "Defeat Slinian"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:156
+msgid "The Academy of Anduin, -538 YW"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:161
+msgid "Alright you lazy slugs! It time for the match!"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:165
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:461
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:324
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:527
+#: The_Life_Of_A_Mage/utils/deaths.cfg:87
+msgid "Leogwyn!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:169
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:465
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:328
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:531
+#: The_Life_Of_A_Mage/utils/deaths.cfg:91
+msgid "My apologies."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:173
+msgid ""
+"Alright listen up. The battle is about to begin. For those of you who don't "
+"know the rules, the point is to ''kill'' the other team's leader. If your hp "
+"reaches 0 you are ''dead'', and you're out of the game."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:177
+msgid "Don't worry, we know the drill."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:181
+msgid "Yeah, Dillon knows how to lose! Ha, ha!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:185
+msgid "We'll see about that..."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:202
+msgid "Come on Dillon. Let's show them what we can do."
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:218
+msgid "Heh, heh! We shall smear you into the dust!"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:222
+msgid "Now, now..."
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:239
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:280
+msgid "You're out."
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:247
+msgid "He got you."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:251
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:292
+msgid "Please!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:255
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:296
+msgid "YOU'RE OUT!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:288
+msgid "She got you."
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:434
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:340
+msgid "Noooo!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:445
+msgid "Aww..."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:453
+msgid "Times up. What? you haven't finished yet!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:457
+msgid ""
+"You are slower than an over engorged snail. I must laugh at you. Ah ha ha ha!"
+msgstr ""
+
+#. [scenario]: description=Dillon 3 4}, description=Marcos 8 8}
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:3
+msgid "The Plan"
+msgstr ""
+
+#. [unit]: description=Lhyron, type=Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:34
+msgid "Lhyron"
+msgstr ""
+
+#. [unit]: description=Jamarn, type=Necrophage
+#. [unit]: description=Jamarn, type=Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:125
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:69
+msgid "Jamarn"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:145
+msgid "Whew! I'm tired. You fought well, Slinian."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:149
+msgid "You won on sheer luck."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:153
+msgid "YOU'RE just bitter at having lost."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:157
+msgid "Bitter! Me? Never!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:161
+msgid "Lhyron, shut up!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:165
+msgid ""
+"You think you're so great. I'd like to see you do something that isn't some "
+"task the masters set you."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:173
+msgid "I have an idea. Have any of you heard of the Icestone?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:177
+msgid "It sounds familiar..."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:181
+msgid "I have no idea."
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:185
+msgid "Oh, by the headmaster's big toe! Don't you know anything?"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:189
+msgid "They haven't read every book in the Library, like you have."
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:193
+msgid ""
+"(sigh) It's an old school legend. The legend is that a certain group of "
+"apprentices started practicing out of class. This is perfectly normal as you "
+"know. But these particular magi were extremely brilliant, and they weren't "
+"trying out the ordinary stuff. They were studying much higher magic."
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:197
+msgid ""
+"In their research, it seems, they came perilously close to the darker forms "
+"of magic, blending it with their school magic. Being gifted with "
+"extraordinary cleverness, however, they were able to avoid detection from "
+"the masters. One of the products of these excursions was the Icestone. This "
+"magical stone could channel the wielder's own powers of sorcery, to generate "
+"icy blasts. The most powerful of the magi could even control blizzards, and "
+"make it snow in summer. Its possible the Stone's power may even extend "
+"beyond changing the weather."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:201
+msgid "What happened to it?"
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:205
+msgid ""
+"Apparently one of the students became uncomfortable with the use of "
+"questionable magic in their meetings. He exposed the rest to the headmaster, "
+"who immediately broke up the group and attempted to destroy all they had "
+"made. Unfortunately for him, some of the things could only be destroyed with "
+"dark magic. The students pursuaded him not to expel them if they told him "
+"how to disable the artifacts. But they prevented their complete destruction."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:209
+msgid "You mean they're still around?"
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:213
+msgid "So the legend says."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:217
+msgid ""
+"I was thinking that if Dillon wanted to do something to stand out, he might "
+"lead an expedition to find the Icestone."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:221
+msgid "We're in school."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:225
+msgid "We'll do it at night."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:229
+msgid "Why can't I lead the expedition?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:233
+msgid "You lost, now shut up."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:237
+msgid "If anyone can do it, Dillon can."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:241
+msgid "I will try to fulfill your expectations."
+msgstr ""
+
+#. [message]: role=supporter
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:245
+msgid ""
+"Dillon is a military genius when it comes to magic. I personally will be "
+"with you every step of the way."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:252
+msgid "You can recall your magi during your quest."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:256
+msgid ""
+"That's settled then. We shall start tomorrow night. I know there is a trap "
+"door in the dungeons somewhere."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:260
+msgid "Are you coming Slinian?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:264
+msgid "Yes, shut up."
+msgstr ""
+
+#. [unit]: description=Marcos, type=Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:285
+msgid "Marcos"
+msgstr ""
+
+#. [unit]: description=Mordrid, type=Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:294
+msgid "Mordrid"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:307
+msgid "A few minutes later..."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:312
+msgid "Well done Dillon. That was a battle worth talking about."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:316
+msgid "Ahh, it was nothing."
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:320
+msgid ""
+"Now, don't you get cocky. In a real battle you won't facing a bunch of lousy "
+"magi!"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:332
+msgid "We will move you up in the ranks as soon as we can, Dillon."
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:336
+msgid ""
+"You can all look forward to tomorrow as another day of completely boring "
+"STUDYING!"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:344
+msgid ""
+"Anyway, (glares at Leogwyn) enjoy your break, and don't stay up too late!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:348
+msgid "Which is something Elycla NEVER does."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:352
+msgid "Elycla brings her staff down on Leogwyn's head."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:362
+msgid "Ooh, that's gonna leave a mark!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:366
+msgid "He's gonna have a coconut on his head tomorrow."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:370
+msgid "Shut up."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:3
+msgid "The Catacombs"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:43
+msgid ""
+"On the arranged night, the group of young magi left their beds, and made "
+"their way down to the dungeons..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:85
+msgid "Whoa! It's like a maze down here!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:91
+msgid "Ha ha, yes, yes. Come deeper into my realm..."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:95
+msgid "Oh! It's a ghost! This place is haunted!"
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:99
+msgid "We're doomed!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:103
+msgid ""
+"Shut up, both of you! We are going to stay calm. Let us not jump to "
+"conclusions. We shall investigate first."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:107
+msgid "Do you want to get us all killed? We never should have come!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:111
+msgid "Who's the coward now?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:115
+msgid "Shut up!"
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:119
+msgid ""
+"If we are going to have to fight on this quest, we should have some way to "
+"heal ourselves. We don't want anyone dying."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:123
+msgid ""
+"I have already thought of that. I stole some medical supplies from the "
+"infirmary."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:127
+msgid "Amazing!"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:137
+msgid "You will be healed if you return to this outpost"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:147
+msgid "Move Dillon to the end of the maze"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:151
+msgid "Death of any apprentice"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:167
+msgid "Well, here we are. Welcome to the dungeons."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:171
+msgid "(shudder) I don't like this place."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:175
+msgid "Are you coming or not, Lhyron?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:179
+msgid ""
+"You would have me be a coward? Of course I'm coming. I was just seeing how "
+"much courage I'll need."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:183
+msgid "Sure..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:187
+msgid "So, Marcos, you said there was a trap door somewhere in here?"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:191
+msgid "Yes, I found it on my last excursion down here."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:195
+msgid "You've been here before? I thought this was a forbidden area."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:203
+msgid "Impressive."
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:207
+msgid "Sorry to interupt, but we're wasting time."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:211
+msgid ""
+"I agree with Mordrid. We need to hurry, if we're going to pull this off "
+"tonight."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:215
+msgid ""
+"Wait! How are we going to pay the students who are helping us? There's no "
+"source of income down here!"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:219
+msgid ""
+"I have arranged for some of my other friends to pool their resources to give "
+"us a steady income."
+msgstr ""
+
+#. [unit]: description=Elendil, type=White Mage
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:240
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:548
+msgid "Elendil"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:251
+msgid "Eh? Living beings? Mortals. I am not alone then..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:255
+msgid "Huh? Who are you?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:259
+msgid "I am nobody. I do not matter anymore. I am finished."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:263
+msgid "Now, what kind of talk is that? Of course you're somebody."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:267
+msgid ""
+"As I said, I do not matter now. Does one individual matter when they have "
+"been separated from society for unnumerable years?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:271
+msgid "Separated from society? For years? You?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:275
+msgid ""
+"I have been lost in this blackness for I do not know how long. I have lost "
+"track of the years. I don't even know if it is day or night. I suppose "
+"you're lost too."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:279
+msgid ""
+"Lost? We know exactly where the entrance is! We're only here because of a "
+"quest."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:283
+msgid ""
+"You know the way out? No, you are lying. You are as lost as I am. Well, let "
+"us unite against these blasted ghosts! Then we shall discuss this."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:287
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:173
+msgid "Very well."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:303
+msgid "I've found it! The trap door!"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:307
+msgid "I knew it was there!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:311
+msgid "Now we're that much closer to finding the Icestone."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:315
+msgid "Down I gooooooo..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:335
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:390
+msgid ""
+"You cannot pass through the trapdoor while another unit is at the other end."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:433
+msgid "Aiee! This place IS haunted!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:437
+msgid "Don't panic!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:441
+msgid "Kill it!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:445
+msgid "EEEEEEEEEEE!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:449
+msgid "(shudder)"
+msgstr ""
+
+#. [message]: role=Doomsday
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:467
+msgid "He's dead! We'll be expelled for sure!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:491
+msgid "Dillon! I found a way out!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:495
+msgid "I'm on my way!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:508
+msgid "Come on! We're running out of time!"
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:512
+msgid "This quest isn't all that fun, you know."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:534
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:559
+msgid "WAIT!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:538
+msgid "What? Is there a problem?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:542
+msgid ""
+"This is not the exit. This must be south. The entrance is north. We must "
+"move in the opposite direction."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:563
+msgid "Hey! Who are you?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:567
+msgid ""
+"This is not the exit. This is south. The exit is north. You must move in the "
+"opposite direction."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:573
+msgid "But we are not trying to get out. We are on a quest."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:577
+msgid "Quest? What quest could possibly lead you down here!?"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:581
+msgid "We are searching for the Icestone."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:585
+msgid ""
+"THE ICESTONE!!? The Icestone was sealed away for a reason! If it were to get "
+"into the wrong hands, the results could be disasterous! Leave it as it is, "
+"away from lustful eyes!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:589
+msgid ""
+"Leave the Icestone? After all this? Impossible! Everything would be wasted!"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:593
+msgid ""
+"If it is a choice between that, and the powers of the Icestone being used "
+"for evil, I will take to former!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:597
+msgid "We could keep it safe! We would use it for good!"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:601
+msgid ""
+"You think? Who knows, perhaps you would use it well. But could you protect "
+"it from ones who would use it otherwise?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:605
+msgid ""
+"I am worried about you. The Stone can be used for good, but it has a natural "
+"evil. The lust for power. It corrupts the soul. That is the danger."
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:609
+msgid "Sir, if you do not trust us, do you trust Dillon?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:613
+msgid "What? Why would he..."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:617
+msgid ""
+"Yes, there is something about you, boy. I can feel it. Yes, I believe if "
+"anyone were worthy of taking the Stone it would be you. But you are too "
+"young, and inexperienced. If you are to use it, it is not now. Wait. When "
+"you are ready, many years from now, you will return to take the stone."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:621
+msgid "Very well. Come on, friends, Let us leave this place."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:629
+msgid "Go!"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:3
+msgid "Choices"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:29
+msgid ""
+"But Lhyron did not want to leave the Icestone. As the group of magi left the "
+"dungeons, he pulled Dillon aside."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:44
+msgid ""
+"Are you crazy? Leave a powerful object like that, just because some old man "
+"tells us to?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:48
+msgid "He said it has a natural evil. Surely it is to be avoided."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:52
+msgid "And yet he said you were worthy to take it."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:56
+msgid ""
+"Yes, many years from now. He said I am currently too inexperienced to "
+"properly handle the stone."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:60
+msgid ""
+"You don't believe that do you? What difference does a few years make? You "
+"know what I think? I think he's trying to keep it from you."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:64
+msgid "Now you are speaking nonsense. I cannot take the stone."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:68
+msgid "So your just going to leave it to be snatched up by someone else?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:72
+msgid "Who's going to steal it? No one else knows where it is."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:76
+msgid ""
+"Our entire legion of students saw Elendil confirm the existence of the "
+"stone. They all know that its down there. Are you just going to let some "
+"ambitious creep get his grimy hands onto it?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:80
+msgid "No, we can't have that."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:84
+msgid "Sooooo..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:88
+msgid "Rrrghh...Alright! I'll do it."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:3
+msgid "The Icestone"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:35
+msgid ""
+"Dillon and Lhyron entered the chamber of the Icestone. The two magi walked "
+"forward slowly, unsure what to expect."
+msgstr ""
+
+#. [unit]: description=Scorch, type=Fire Ghost
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:112
+msgid "Scorch"
+msgstr ""
+
+#. [unit]: description=Blaze, type=Fire Ghost
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:121
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:131
+msgid "Blaze"
+msgstr ""
+
+#. [unit]: description=Ember, type=Fire Ghost
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:139
+msgid "Ember"
+msgstr ""
+
+#. [message]: speaker=Scorch
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:148
+msgid ""
+"Ha ha ha! Free at last! Poor fools. They shall suffer an utter oblivion of "
+"fire."
+msgstr ""
+
+#. [message]: speaker=Blaze
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:152
+msgid "Heh heh heh! It shall consume their flesh!"
+msgstr ""
+
+#. [message]: speaker=Ember
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:156
+msgid "Hee hee hee! Until they crackle and pop!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:160
+msgid "(shudder) What are those things?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:164
+msgid "I haven't the faintest idea, and I'm not sticking around to find out."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:169
+msgid "Move Dillon to the tunnel enterance to escape"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:173
+msgid "Death of Dillon or Lhyron"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:200
+msgid "Capture the Icestone with Dillon"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:204
+msgid "Death of Dillon or his friends"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:228
+msgid "Here we are."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:232
+msgid "There it is! There's the Icestone!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:244
+msgid "Hey! What are you two doing here?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:248
+msgid ""
+"We heard you talking to Dillon and we're coming to look for the stone too."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:252
+msgid "But wait..."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:256
+msgid ""
+"Leave it, Dillon. We're going to need all the help we can get if we're going "
+"to succeed in capturing the stone."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:260
+msgid "I don't want to endanger any other students."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:264
+msgid ""
+"This whole escapade endangered the students involved. Its what we signed up "
+"for."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:268
+msgid ""
+"Honestly Dillon, you're always too noble. You need to think of yourself once "
+"in a while."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:276
+msgid "Well, what are we waiting for? To the stone!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:295
+msgid ""
+"Dillon reaches slowly for the Stone. The powerful object pulses rapidly as "
+"it prepares to leave its resting place."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:299
+msgid "Its so cold!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:303
+msgid "What did you expect? It's the Icestone!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:307
+msgid "Well, it is done then. We've taken it."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:311
+msgid "Let's get out of here."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:326
+msgid "Well, what are you waiting for?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:330
+msgid "I don't dare."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:334
+msgid "You were the one who wanted to take it!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:338
+msgid "You are the one who is supposed to take it."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:342
+msgid "Fine."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:355
+msgid "Am I supposed to take it?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:359
+msgid "Well, duh. Its sitting right in front of you!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:363
+msgid "But suppose its dangerous?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:367
+msgid "(Snicker)"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:371
+msgid "Dillon's supposed to take it."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:375
+msgid "Alright then."
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:388
+msgid "I'm too scared to take it."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:392
+msgid "Dillon, you'd better take it."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:93
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:396
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:445
+msgid "Okay."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:448
+msgid "The cave is falling apart!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:452
+msgid "We got to get out!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:467
+msgid "Come on, guys!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:471
+msgid "We're right behind you!"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:3
+msgid "Betrayal"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:96
+msgid "Death of Dillon or any ''hero unit''(Marked with a silver crown)"
+msgstr ""
+
+#. [message]: role=Searchparty
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:110
+msgid "Oh thank goodness we found you! We were so worried."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:114
+msgid "It's alright, we're fine."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:118
+msgid "Hey, Dillon. Could I have a look at the Icestone."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:122
+msgid "I don't see any harm in that."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:127
+msgid "I must be going deaf. I thought I heard you say you had the Icestone."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:131
+msgid "We do."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:135
+msgid "WHAT!? You took the Icestone from its place of safety! You foolish boy!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:139
+msgid "Hey, now look..."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:143
+msgid ""
+"I was wrong! Terribly wrong! You will never be worthy to wield the Stone!"
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:147
+msgid "What do you know about the Stone?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:151
+msgid ""
+"What do I know? As much as the watchmaker knows about the inner workings of "
+"his handywork. I CREATED THE ICESTONE."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:155
+msgid "You created the Icestone?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:159
+msgid ""
+"Yes, it was one of the most terrible things we did in our meetings, imbuing "
+"a object with such dark power as we did the Icestone. "
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:163
+msgid "You were one of the fabled magi, who were caught practicing dark magic?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:167
+msgid ""
+"Yes, I was. I am utterly ashamed of it. I attempted to redeem myself by "
+"exposing the others to the Headmaster. It worked, I was not punished. By him "
+"anyway."
+msgstr ""
+
+#. [message]: speaker=Marcos
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:171
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:325
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:410
+msgid "What do you mean?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:175
+msgid ""
+"The others were very angry with me. One night they accosted me while I was "
+"sleeping, and dragged me down to the dungeons where we had sealed the "
+"Icestone. They left me there. It was supposed to be an added torture, that I "
+"would be so close to the very thing that caused me so much grief."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:179
+msgid "So that's why you were down in the dungeons."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:183
+msgid "But why didn't you destroy the Stone."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:187
+msgid ""
+"Because I foolishly convinced myself that it could eventually be used for "
+"good. I was wrong."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:191
+msgid "What makes you think it can't be used for good?"
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:195
+msgid ""
+"Power corrupts the soul. The Stone can only be wielded by one with great "
+"self control, and very little ambition. I thought Dillon might be such a "
+"person. But you proved me wrong. You were not capable of waiting. You have "
+"failed the test."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:199
+msgid "I'm sorry."
+msgstr ""
+
+#. [message]: speaker=Elendil
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:203
+msgid ""
+"Now we will have to take the consequences. Believe me, nothing good will "
+"come of it. I will speak with the Masters about you."
+msgstr ""
+
+#. [message]: role=Searchparty
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:226
+msgid "What! Slinian! You murderer!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:230
+msgid "He was too dangerous. No one will miss him."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:234
+msgid "Slinian!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:238
+msgid ""
+"Get a hold of yourself, Dillon. We have the Icestone. We now have power "
+"beyond imagining! Think of it. We can do anything! So are you with me?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:242
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:252
+msgid "Never!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:246
+msgid "Very well, Dillon..."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:272
+msgid "...Then you are of no further use to me."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:303
+msgid "You really think you can fight us?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:307
+msgid "We shall see..."
+msgstr ""
+
+#. [message]: role=Searchparty
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:319
+msgid "Argh! What...did...why..."
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:323
+msgid "Necromancy!"
+msgstr ""
+
+#. [message]: speaker=Marcos
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:327
+msgid "Undead!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:331
+msgid "Simply one of my many talents."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:335
+msgid "You've been studying necromancy...You're worse than I thought."
+msgstr ""
+
+#. [message]: speaker=Mordrid
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:339
+msgid ""
+"We might need more that our small group to defeat him. Dillon, I'll go and "
+"wake up students to help us."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:346
+msgid "You may now recruit Apprentice Magi."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:362
+msgid ""
+"Stop! Let the wounded ones live until they have seen Dillon and his friends "
+"die."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:366
+msgid "You are vain, Slinian. It will be your downfall."
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:377
+msgid "No! Please!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:381
+msgid "Let the scum live. We will turn him into the Masters."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:392
+msgid "Please! Don't kill me!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:396
+msgid "Should I kill him?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:400
+msgid ""
+"We will let you live, Slinian. You have proved yourself a murderer, and a "
+"necromancer. You will be turned over to the Masters to be punished properly."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:404
+msgid "That's what you think!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:408
+msgid "Oy! Catch him, he getting away!"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:3
+msgid "Consequences"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:29
+msgid ""
+"Slinian fled the school to escape punishment. Jamarn was expelled and exiled "
+"for consorting with a necromancer."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:32
+msgid ""
+"Dillon was put on probation for his escapade into the dungeons. While he "
+"told the Masters most of what went on the dungeons, he made it sound as "
+"though they had failed to capture the Icestone."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:35
+msgid ""
+"He had regained the Icestone from Slinian, but refused to use it. He hid it "
+"among his unused belongings."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:38
+msgid "Life went on..."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:41
+msgid ""
+"At the Anduin acadamy, any student that works hard enough will eventually "
+"graduate. They are then free to roam and use their magic skills as they will."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:44
+msgid ""
+"After many, many years, Dillon and his friends soon reached such a stage. "
+"After his graduation, Dillon stayed on the Island of Anduin, and even "
+"assisted some of the teachers."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:47
+msgid "Then one day..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:61
+msgid "Isle of Anduin, -552 YW"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:73
+msgid "Pardon me, Dillon, but do you have a moment?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:77
+msgid "Yes, what do you need."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:81
+msgid ""
+"The Headmaster is traveling to the city of Elensafar. There are a group of "
+"children that wish to attend the academy."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:85
+msgid "That's great!"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:89
+msgid "He is also asked Leogwyn and me to accompany him."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:97
+msgid "He was also wondering if you would come."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:101
+msgid ""
+"Up to Elensafar? Yes, I could do that. I need to get off this island for a "
+"while anyway."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:105
+msgid "Very well, meet us at the dock, in two days time."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:109
+msgid "I understand."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:3
+msgid "Old Enemies"
+msgstr ""
+
+#. [side]: type=Great Mage, description=Headmaster
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:30
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:30
+msgid "The Headmaster"
+msgstr ""
+
+#. [unit]: type=Grand Knight, description=Morien
+#. [side]: type=Grand Knight, description=Morien
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:28
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:42
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:72
+msgid "Lord Morien"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:105
+msgid ""
+"Two days later, they set out for Elensafar by ship. Unfortunatly the voyage "
+"did not go so smoothly. They ran into a storm which destroyed their boat. "
+"Thankfully, they beached on a coast, very near Elensafar."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:119
+msgid ""
+"The magi made their way to the city, where the young children where waiting. "
+"Because they no longer had a boat, they began the long march back...by land."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:145
+msgid "Where did he go? He just disappeared!"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:149
+msgid "I think it is safe to assume that Slinian is still alive."
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:153
+msgid ""
+"I think so too. But our priority now is to return the children to Anduin."
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:157
+msgid "Headmaster, permission to investigate the ruins for the Necromancer."
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:161
+msgid "Permission granted."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:165
+msgid ""
+"Wait just one second! You are not going into a dangerous place like that "
+"with out me!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:169
+msgid "Continue on without us, Headmaster. We'll catch up when were finished."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:190
+msgid "That's it. The children are safely though."
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:194
+msgid "Good job, Dillon. Let us leave this place now."
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:198
+msgid "Wait! Are you going to leave this Necromancer to do his evil?"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:202
+msgid "He has a point."
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:206
+msgid "I see...Dillon what to you think we should do?"
+msgstr ""
+
+#. [option]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:208
+msgid ""
+"We should leave here at once. We should try to return to Anduin immediately."
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:212
+msgid "Then what are we waiting for? Let us leave at once."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:216
+msgid ""
+"I warn you, Dillon, you can run all you wish, but I will catch up to you "
+"eventually! And when I do, you will be sorry our paths ever crossed!"
+msgstr ""
+
+#. [option]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:226
+msgid "Sorry, Headmaster, but I have a serious bone to pick with that scum!"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:230
+msgid "Very well, we shall slay the Necromancer."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:234
+msgid "Ha! You can try! But you won't succeed!"
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:238
+msgid "Silence, dirtbag!"
+msgstr ""
+
+#. [objectives]
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:324
+msgid ""
+"After you safely move the children you may continue to pummel Slinian, if "
+"you wish."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:326
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:361
+msgid "Escort the children to the end of the path"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:330
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:365
+msgid "Defeat Slinian(Bonus)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:111
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:338
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:373
+msgid "Death of Lord Morien"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:342
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:377
+msgid "Death of the Headmaster"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:346
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:381
+msgid "Death of Leogwyn"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:350
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:385
+msgid "Death of Elycla"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:354
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:389
+msgid "Death of any child"
+msgstr ""
+
+#. [label]
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:396
+msgid "Move Children Here"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:409
+msgid "Stop! Something is not right here..."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:413
+msgid "I agree, it's too quiet."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:417
+msgid ""
+"My my, if it isn't my old friend Dillon, and those decrepid old teachers."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:421
+msgid "Slinian! What are you doing here?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:425
+msgid ""
+"Well, you see, when you forced me leave the academy, I didn't have any place "
+"to go did I? So I settled down here, in this forest, where I could practice "
+"my art in peace."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:429
+msgid "A necromancer. Scum of the earth."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:433
+msgid ""
+"Anyway, I think I've waited long enough for my revenge. You would make a "
+"great addition to my army, eh, Dillon?"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:437
+msgid ""
+"Dillon, this man means business. Our highest priority is the safety of the "
+"children. Lead them safely past this unholy forest."
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:441
+msgid ""
+"We will try to distract Slinian while you and Lord Morien move the children."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:449
+msgid "Affirmitive."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:461
+msgid "Argh! Curse you, Dillon. I will return to deal with you later!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:477
+msgid "Ugh...whats happening?"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:481
+msgid "Dillon, you fool! You were supposed to protect the children!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:523
+#: The_Life_Of_A_Mage/utils/deaths.cfg:83
+msgid "@%#*!@"
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:545
+#: The_Life_Of_A_Mage/utils/deaths.cfg:105
+msgid "Aargh! I'm dying!"
+msgstr ""
+
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:549
+#: The_Life_Of_A_Mage/utils/deaths.cfg:109
+msgid "Nooooo!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:105
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:538
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:217
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:563
+msgid "Oh..."
+msgstr ""
+
+#. [message]: speaker=Elycla
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:567
+msgid "No! Not the Headmaster! We need him!"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:581
+msgid "No! Not now..."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:585
+msgid "Ah ha ha ha!"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:599
+msgid "We are doomed!"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:3
+msgid "A Cry For Help"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:74
+msgid "What do we do now?"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:78
+msgid ""
+"We must continue our journey to Anduin, to deliver these children. Hopefully "
+"there will be no more drawbacks on the road ahead of us."
+msgstr ""
+
+#. [message]: role=messenger
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:92
+msgid "Excuse me, but could you please help us?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:96
+msgid "What's the matter?"
+msgstr ""
+
+#. [message]: role=messenger
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:100
+msgid "I am from Prince Arand's personal battalion. W-"
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:104
+msgid "Prince Arand II? Are you serious?"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:108
+msgid "Please do not interrupt! Continue."
+msgstr ""
+
+#. [message]: role=messenger
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:112
+msgid ""
+"Thank you, sir. We had just finished fighting off an Orcish party up North. "
+"We were marching back to Weldyn, and the men needed to rest, so the prince "
+"moved our group off the road. Well, he forgot to post a watch, and we've "
+"been attacked by bandits."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:116
+msgid "Bandits? Oh no..."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:120
+msgid "I must say, they've got some nerve, attacking the Prince of Wesnoth."
+msgstr ""
+
+#. [message]: role=messenger
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:124
+msgid "Please, sirs! The prince is fighting for his life!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:128
+msgid ""
+"Headmaster, you continue with the children. Deliver them safely to Anduin, "
+"like you wanted. Lord Morien and I shall go to the aid of the prince."
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:132
+msgid "Well said, Dillon. Do as you say."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:136
+msgid ""
+"Hooray! I get to go to the aid of the Prince of Wesnoth! Farewell, "
+"Headmaster!"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:141
+msgid "Goodbye, Dillon. May the Force be with you."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:145
+msgid "And with yo- What?"
+msgstr ""
+
+#. [message]: speaker=Headmaster
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:149
+msgid "Never mind...Farewell, my friend."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:153
+msgid "You too."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:3
+msgid "The Prince Of Wesnoth"
+msgstr ""
+
+#. [unit]: type=Prince, description=Arand
+#. [side]: type=Prince, description=Arand
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:44
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:39
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:29
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:29
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:44
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:44
+msgid "Arand II"
+msgstr ""
+
+#. [side]: type=Fugitive, description=Hugo
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:57
+msgid "Hugo"
+msgstr ""
+
+#. [side]: type=Highwayman, description=Ryan
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:74
+msgid "Ryan"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:103
+msgid "Rescue the Prince"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:115
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:73
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:67
+msgid "Death of Arand II"
+msgstr ""
+
+#. [message]: role=messenger
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:145
+msgid "There he is! Prince Arand! Your highness, I brought reenforcements!"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:149
+msgid "Thank you, Lieutenant! Now we may have a chance against these villains!"
+msgstr ""
+
+#. [message]: speaker=Hugo
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:153
+msgid ""
+"Oh crud! They brought reenforcements! Quick, we must destroy them before "
+"they can attack!"
+msgstr ""
+
+#. [message]: speaker=Ryan
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:157
+msgid "Aye!"
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:161
+msgid "Don't worry, prince! We're coming to save you!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:172
+msgid "No, not now..."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:186
+msgid "No, we must save the prince!"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:200
+msgid "Curses!"
+msgstr ""
+
+#. [message]: role=messenger
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:214
+msgid "Alas, I have fallen..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:222
+msgid "Phew! I'm glad that's over."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:226
+msgid "I must thank you, friends. I owe you my life."
+msgstr ""
+
+#. [message]: speaker=Morien
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:230
+msgid "Oh, it was nothing."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:234
+msgid ""
+"I'm glad we could help. Is there anything else we could do for you, your "
+"highness?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:238
+msgid ""
+"Come with me to my father's castle, so we may reward you for saving my life."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:242
+msgid "It's really not necessary..."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:246
+msgid ""
+"Come! That is an order. There is too little good in the world, to let it go "
+"unnoticed!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:250
+msgid "Oh, alright."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:3
+msgid "A Royal Greeting"
+msgstr ""
+
+#. [side]: type=King, description=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:29
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:30
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:29
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:29
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:30
+msgid "Konrad"
+msgstr ""
+
+#. [unit]: type=Queen, description=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:37
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:52
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:37
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:37
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:48
+msgid "Li'sar"
+msgstr ""
+
+#. [unit]: type=Junior Prince, description=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:52
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:60
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:52
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:52
+msgid "Eldaric V"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:93
+msgid "Greetings, Father! I have returned."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:97
+msgid ""
+"My son! You took longer than we expected. Was the orcish battalion so "
+"difficult to defeat?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:101
+msgid ""
+"Not at all, Father. The orcs were unusually easy to route. Too easy in "
+"fact...but we should discuss that later. Father, these are the men that "
+"saved my life!"
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:105
+msgid "Saved your life? What do you mean?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:110
+msgid "Arand tells his father all that had transpired.."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:114
+msgid "Hmm, interesting..."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:118
+msgid "And you said these men saved you?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:122
+msgid "Yes, Mother, I owe them my life."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:126
+msgid "Then what are we doing?! We must reward them! Eldaric!"
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:130
+msgid "Yes, Mother?"
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:134
+msgid ""
+"Tell the cooks to prepare their very best. Get the servants to attend to our "
+"guests, and their men. We shall have a feast in their honor."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:138
+msgid "Right away, Mother."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:142
+msgid "And as for gold..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:146
+msgid "This really isn't necessary..."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:150
+msgid ""
+"You may think so. But what about your men? They fought and bled for my sake. "
+"Would you let their sacrifices go unnoticed?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:154
+msgid "No, of course not. Never mind me."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:3
+msgid "Uneasy Tidings"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:61
+msgid ""
+"King Konrad had a marvelous banquet set out for Dillon and his men. He had "
+"only the finest food cooked for his honoured guests."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:64
+msgid ""
+"While Dillon's men chatted, and enjoyed the meal, he himself stayed off by "
+"himself. His merry mood had been dampened greatly by an ominous feeling that "
+"lurking nearby, was some great evil, staying just out of sight, ready to "
+"pounce at any moment..."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:67
+msgid ""
+"He tried to shake off the feeling, but to no avail. There was something "
+"frightenly familiar about the evil presence. A shadow of something long "
+"past..."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:70
+msgid ""
+"He felt a tap on his shoulder. It was one of the servants. 'King Konrad "
+"would like you to come dine with him, at his private table.'"
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:113
+msgid "Dillon, my friend, come and eat! Have you tasted the venison yet?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:117
+msgid ""
+"I must thank his highness for his hospitality. This is far beyond anything "
+"we deserve."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:121
+msgid "You saved my son's life. We cannot thank you enough."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:125
+msgid "And while I am at it, here is something for you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:136
+msgid "500 gold"
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:140
+msgid ""
+"Now, Arand, my son, I did not wish to discuss this in front of the others, "
+"but the attempt on your life worries me greatly. No, this is not just a "
+"father's concern for his son. The fact that some wayward ruffians actually "
+"attacked royalty, does not tally with my past dealings with the outlaws. My "
+"experience is that they shun large forces, preying only opon the weak, and "
+"helpless."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:144
+msgid "They just happened to be a bigger group, and could handle more."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:148
+msgid ""
+"You don't understand, brother. What reason would outlaws have to group "
+"together in such numbers. It was a fully fledged army."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:152
+msgid ""
+"Which is not at all normal for outlaws. They try to create as little a "
+"disturbance as possible, lest they draw our attention."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:156
+msgid "These ruffians were obviously trying to distablize the throne itself. "
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:160
+msgid "(choke) What!?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:164
+msgid "Exactly."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:168
+msgid "But, that would mean they're in open rebellion against the crown."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:172
+msgid ""
+"Yes, which we may have to deal with. But if they are in rebellion, and they "
+"intentionally attacked the prince, then they must somehow known the prince "
+"was going to travel on that road."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:176
+msgid ""
+"I think I have the answer to that. The orcish battalion. They were a threat "
+"we could not ignore, but as soon as we sent an army their way, they fled."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:180
+msgid "So, you think it was a trap?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:184
+msgid "It makes sense."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:188
+msgid ""
+"It that is true, then we have an even bigger problem on our hands. It would "
+"mean that this conspiracy is not limited to the wesnothian outlaws. If they "
+"are indeed in league with the orcs of the north, then we may, even now, have "
+"a war to deal with."
+msgstr ""
+
+#. [unit]: type=Junior Princess, description=Ana'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:200
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:69
+msgid "Ana'sar"
+msgstr ""
+
+#. [message]: speaker=Ana'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:208
+msgid "Father...mother..."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:213
+msgid "My daughter! You look as though something terrible has happened to you!"
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:217
+msgid "Look at that! Those are wounds from a blade! What happened?"
+msgstr ""
+
+#. [message]: speaker=Ana'sar
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:221
+msgid ""
+"I was...returning from the meeting...with the elves of Aethenwood...we were "
+"beset by...undead..."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:229
+msgid "Arand! Eldaric! Get me the healers, immediately!"
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:3
+msgid "Undead Threat"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:61
+msgid ""
+"Princess Ana'sar lay unconscious for days. Every day the royal family waited "
+"anxiously for news of her condition. Until finally..."
+msgstr ""
+
+#. [message]: role=Healer
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:93
+msgid "Well, your Highness, you have a very strong daughter."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:97
+msgid "Is she going to be alright?"
+msgstr ""
+
+#. [message]: role=Healer
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:101
+msgid ""
+"She's still unconscious, but her fever is going down. We think she will "
+"recover fully."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:105
+msgid "Oh, that relieves me greatly."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:119
+msgid "Did you hear that mother? She's going to be okay!"
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:123
+msgid "Yes, son, I heard."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:127
+msgid "Then why do you look so worried."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:131
+msgid ""
+"Do you not see, brother? She was attacked by undead, just when I was "
+"attacked by outlaws. Coincidence, I think not."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:135
+msgid "Which suggests that we also have undead to deal with. What is going on?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:139
+msgid ""
+"If the undead are involved, then I might know how to get some information "
+"about this."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:143
+msgid "And how is that?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:147
+msgid "I happen to know a necromancer."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:151
+msgid "You're friends with a necromancer!?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:155
+msgid "You're in league with the undead! Treason!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:159
+msgid "No, no, no, I never said I was friends with him."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:163
+msgid "But you consort with him nonetheless."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:167
+msgid ""
+"He has been attempting to kill me ever since he was expelled from the "
+"academy."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:171
+msgid "Oh. My mistake."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:175
+msgid ""
+"But this necromancer, his name is Slinian, he attacked us while we were "
+"traveling along that road. I think that was just a coincidence, but now we "
+"know that he dwelt in those woods."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:179
+msgid "So will we find him there?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:183
+msgid ""
+"He fled after we escaped, but it would be a good place to look for "
+"information on where he is."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:187
+msgid ""
+"Then our course of action is clear. We must capture this necromancer, and "
+"force some answers out of him."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:191
+msgid "I will take my men to catch him."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:195
+msgid "You shall not go alone. I shall send my men with you."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:203
+msgid ""
+"You do not understand. This is a threat to all of Wesnoth. As its King, I am "
+"responsible for its safety. Arand will go with you."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:207
+msgid "Can I go with them."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:211
+msgid "This is too large a matter for you, my son."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:215
+msgid "You never let me do anything!"
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:219
+msgid "Farewell, Dillon."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:3
+msgid "The Investigation"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:147
+msgid "Well, this is his castle."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:151
+msgid "It seems to be deserted."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:155
+msgid "He fled the place after we defeated him."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:159
+msgid ""
+"Oh! I just remembered. Master Leogwyn, and Mistress Elycla also led an "
+"expedition down here. It's been a while since then, but I wonder if they're "
+"still be down here."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:170
+msgid ""
+"Well, well, what have we here? Another group of fools, come to visit me. "
+"Come, let me show you about my home."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:174
+msgid "The necromancer! Quick men, attack!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:178
+msgid ""
+"Do not even think of it! I have you surrounded, and can have you slaughtered "
+"with a word."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:182
+msgid "He's right. He has us."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:186
+msgid ""
+"You are a fool to come here, Dillon, but a fortunate one. I will not kill "
+"you. IF, Dillon will come with me. "
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:190
+msgid "And what if he doesn't?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:194
+msgid "Then you and your entire army will be slain."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:198
+msgid "Slinian, you...coward!"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:202
+msgid "We will never yield Dillon to such scum! We will die first!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:206
+msgid ""
+"No! I will not have you and your men slain on my account. I will come with "
+"you, Slinian."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:210
+msgid "You did the right thing, Dillon..."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:3
+msgid "A Shadow From The Past"
+msgstr ""
+
+#. [side]: type=Death Knight, description=Vlad
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:40
+msgid "Vlad"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:139
+msgid "Defeat Enemy Leaders"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:143
+msgid "Free the Prisoners"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:157
+msgid "This, Dillon, is my fortress. Go ahead, take a look around."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:161
+msgid "What is this..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:166
+msgid "Why..."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:171
+msgid ""
+"Your ignorance is laughable. I am a necromancer. I operate on the bodies and "
+"souls of men...of course I need men to do it on."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:175
+msgid "You're terrible!"
+msgstr ""
+
+#. [message]: speaker=Jamarn
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:180
+msgid "Ugg.."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:184
+msgid "Aagghh!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:188
+msgid "Oh shut up, its only Jamarn."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:192
+msgid "Jamarn!?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:196
+msgid ""
+"Oh yes, my failure of a friend. I can tell you he's much more useful in this "
+"form."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:200
+msgid "(horrified)"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:204
+msgid "But moving on...I want you to meet someone."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:210
+msgid ""
+"You've seen my kingdom, everything I have created, I owe it all to one man. "
+"The one who has taught ever since I left school. The reason I am what you "
+"see today."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:214
+msgid ""
+"Yes, and I'll tell you what I see! A human failure. You could have been a "
+"great man, Slinian. You could have done something good for this world. But "
+"you blew it. And you see where it's taken you. You are a cruel, evil man, "
+"who lives underground, preying upon the souls of you're fellow beings. "
+"You're a wreck. I can even see you are aging faster than normal."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:218
+msgid ""
+"(laughter) You are as I remember you. I recall you always believed very "
+"strongly in honor, and about ''good'' and ''evil''. You always stuck to your "
+"principles no matter what. Fool. Do you not see? I am great. I am on the "
+"verge of ruling Wesnoth."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:222
+msgid "What! What did you say!?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:226
+msgid ""
+"I have your attention I see. Well, since I'm revealing all my secrets, I "
+"suppose it won't hurt to tell you."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:232
+msgid ""
+"I created contacts with a vast many creatures across the land. Fellow "
+"necromancers...outlaws...orcs...You're smart, Dillon. Make the connection."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:236
+msgid ""
+"You were behind the attack on Prince Arand! And the one on Princess Ana'sar!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:240
+msgid "Yes...I was. Think of it, Dillon. Me, Slinian, ruler of Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:244
+msgid "Ugh! I don't want to think about it."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:248
+msgid "...you could be great too, you know. I could use you're help."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:256
+msgid "I think you will change your mind once you meet my mentor..."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:262
+msgid "Oh, Great One! Master of Darkness! Rise! Come to us!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:280
+msgid "Why have you called me?"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:284
+msgid "I have brought to you the one you seek. Dillon."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:288
+msgid ""
+"Aha! I have found you at last! Dillon, do you not recognize me? I am your "
+"brother, Karin."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:293
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:558
+msgid "No..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:297
+msgid "Heh heh, yes...I am Karin, whom you murdered."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:301
+msgid "It wasn't murder!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:305
+msgid "Wasn't it? Explain."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:309
+msgid "You killed our parents!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:313
+msgid ""
+"As you killed me. I was helpless. Wounded. Unable to defend myself. And you "
+"stabbed me with your knife."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:317
+msgid ""
+"...no, no...You're evil! I had a reason. Revenge. You had none. You simply "
+"wanted the plunder of our village."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:321
+msgid ""
+"Fool! Do you think I would kill my own family and friends just for profit? "
+"No, I had a reason. They banished me. Well, my parents did. The villagers "
+"had no say in the matter..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:330
+msgid ""
+"Listen to me, Dillon. Did you know our father once attended the Academy of "
+"Anduin?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:334
+msgid "No, I didn't. And I don't believe it!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:338
+msgid "He did. I found some of his books, that he intended to destroy."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:342
+msgid ""
+"You aren't making any sense. Why would Olaf want to hide the fact that he "
+"was a mage. What's to be ashamed of? And who would find out."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:346
+msgid ""
+"Heh heh heh, Olaf was an interesting man. He was trying to hide it from "
+"himself. Because he was weak, ashamed of his past."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:350
+msgid "What are you talking about, Karin? What had he done?"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:354
+msgid ""
+"He was given a chance at greatness. He was one of the brightest students to "
+"ever enter that school. Olaf excelled at every type of magic. He was not "
+"afraid of experimenting with the darker forms of magic, as well as the light."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:358
+msgid "Wait a second..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:362
+msgid ""
+"I see you have heard the story. Yes, he was the founder of the famous group "
+"of magi. The dark magi."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:367
+msgid "No! That's a lie!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:371
+msgid ""
+"I am afraid it is not. He was a master of dark magic. But he was weak. He "
+"discontinued his work, and attempted to destroy his past identity by "
+"forsaking all the magic he had ever learned. Well, the poor fool forgot to "
+"distroy his journal!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:376
+msgid "No...stop it. You're lying..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:380
+msgid ""
+"I found his journal. I discovered who he was. What he had done...But I was "
+"not the coward he was! I studied his books of magic, desprately trying to "
+"become what he had become. Because I knew I could be greater! I could rule "
+"Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:385
+msgid "You are insane!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:389
+msgid ""
+"Cease that talk, Dillon! You do not understand! I payed for my folly! Olaf, "
+"my own father, exiled me from my home when he found out!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:393
+msgid "If this is all in the past than why do you speak of it with such glee?"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:398
+msgid ""
+"Because I am weak...I have relapses into old habits. Dillon, you murdered "
+"me. But look at you now. You are a great mage. A master of light magic. Do "
+"you not believe the same could be true for me? Might I have a second chance, "
+"too?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:402
+msgid "What are you talking about? You're dead!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:406
+msgid ""
+"That can be changed...you forget you are dealing with a necromancer. It "
+"would take powerful magic, but that is not a problem..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:414
+msgid "The power we seek resides in the object you bear. The Icestone."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:418
+msgid "The Icestone? What does that have to do with anything?"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:422
+msgid ""
+"It has far more power than you think. Although it is called the Icestone, "
+"ice is only one of its many properties."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:426
+msgid "Whatever it is, I don't have it with me. I left it on Anduin."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:430
+msgid "Did you, really? I think you will find you did not. Check again..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:434
+msgid "Why...it's here...how did-"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:438
+msgid ""
+"Again, you underestimate the power of the Icestone. It has an intelligence "
+"of its own, or at least something like it. It chose to come with you."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:442
+msgid "But I would remember taking it."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:446
+msgid "Not if it didn't want you to."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:451
+msgid ""
+"Oh! I see what this is. This is some foul magic. The Icestone can bewitch "
+"the one who bears it. It is finally taking its toll on me."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:456
+msgid ""
+"Oh poor Dillon. The power of the Icestone is too much for you. Do you not "
+"long to give it up..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:460
+msgid "Yes...please..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:464
+msgid ""
+"You agree that I deserve a second chance...then give me the Stone. I will "
+"use it...but only to regain a body. You owe me, you know."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:469
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:488
+msgid "Yes..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:474
+msgid "That's it, Dillon...bring the stone to me..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:479
+msgid "Come on...just a little closer..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:484
+msgid "Good...now place the stone opon the altar..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:525
+msgid "Aaarrgghhhh! Ha, ha! Yes! I have a body! I am physical once again!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:530
+msgid "Argh!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:534
+msgid ""
+"Ha ha! Dillon! I must thank you for aiding me in my return to power! You "
+"have been most useful..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:542
+msgid ""
+"Yes...your enchantment is wearing off now...you are returning to your right "
+"mind..."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:546
+msgid "What? Dillon was bewitched?"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:550
+msgid ""
+"You idiot! Were you not listening? The Icestone can enchant its bearer, "
+"forcing them to act. I used that power..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:554
+msgid ""
+"But Dillon, I feel...obliged to tell you...heh, heh...that you allowed "
+"yourself to be tricked. I could not have enchanted you to aid me, if you had "
+"not secretly chosen. I just wanted you to know that, deep down, you are no "
+"better than the rest of us..."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:562
+msgid ""
+"You have failed, Dillon. But you have fulfulled your purpose. You have given "
+"me the one thing I need to return to power. Know that, and die!"
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:584
+msgid ""
+"He was a fool. But now, Karin, we must continue our plan to conquer Wesnoth, "
+"that we might rule it together."
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:588
+msgid "Together? I think not. I alone will rule my new kingdom."
+msgstr ""
+
+#. [message]: speaker=Slinian
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:592
+msgid "But you said-"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:596
+msgid ""
+"Fool! Did you honestly think I trained you, stooped to raise you from the "
+"worthless muck you were, just to let you rule over me! No! You have "
+"fulfilled your purpose as well!"
+msgstr ""
+
+#. [message]: speaker=Karin
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:618
+msgid "The Age of Karin begins. Ah ha ha ha ha ha!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:632
+msgid ""
+"But Karin had underestimated Dillon. He was a master of his art, and had "
+"managed to repel most of the vile blast that was supposed to kill him."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:641
+msgid ""
+"What have I done...I'm such a fool! How could I have believed him! I guess "
+"Karin was right. Deep down, I'm no better than he is..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:645
+msgid "Well, there's nothing for it, but to try to repair what I have done."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:649
+msgid ""
+"HEAR ME, KARIN! I HEREBY VOW, THAT JUST AS I BROUGHT YOU BACK INTO THIS "
+"WORLD, I WILL REMOVE YOU FROM IT AGAIN!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:676
+msgid "Thank you friends. Now we must see what has happened to Prince Arand."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:3
+msgid "Escape"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, description=Eulias
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:42
+msgid "Eulias"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:59
+msgid "Defeat Eulias"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:77
+msgid "Arand! I was worried about you! What happened?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:81
+msgid ""
+"Well, these necromancers certainly aren't very hospitable to guests. They "
+"locked us up right after you left. However the undead guards suddenly went "
+"all disoriented, and started attacking us."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:85
+msgid ""
+"Good thing you escaped. I don't think I would have had enough men to rescue "
+"you."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:89
+msgid "We fought our way out, of course. So where's Slinian?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:93
+msgid "Dead."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:97
+msgid "That would explain the guards behavior."
+msgstr ""
+
+#. [message]: speaker=Eulias
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:101
+msgid "Hey! Escaped prisoners! Get them!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:105
+msgid "Looks like it's not over yet."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:113
+msgid ""
+"Let leave this place. Arand, I need to speak with your father immediately. "
+"This is extremely urgent."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:3
+msgid "Old Friends"
+msgstr ""
+
+#. [side]: type=Orcish Leader, description=Groshnak
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:30
+msgid "Groshnak"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:61
+msgid "Defeat Groshnak"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:83
+msgid ""
+"Tell me, Dillon, did you learn anything from the necromancer before he died?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:87
+msgid ""
+"I will tell you everything when we meet with your father. I'm afraid the "
+"situation is much worse than before."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:91
+msgid "In that case we must make haste to Weldyn."
+msgstr ""
+
+#. [message]: speaker=Groshnak
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:95
+msgid "Ha ha! Travelers, coming this way. Gold for me, meat for my army."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:99
+msgid ""
+"Oh no...can't we travel anywhere, without being beset by someone who wants "
+"to kill us?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:128
+msgid "Hey Dillon, looks like you got yourself into some trouble."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:132
+msgid "Lhyron! Where did you come from?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:136
+msgid "Is this a friend of yours?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:140
+msgid ""
+"The Headmaster sent me to look for you. We were worried when you didn't "
+"return."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:144
+msgid "Well, you arrived just in time. Let us blast some orcs!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:155
+msgid "Phew, I haven't had this much excitement in-"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:159
+msgid "Come on. We have no time to lose."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:3
+msgid "Weldyn Down"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:64
+msgid "What...is this?"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:68
+msgid "No! This cannot be. Someone has attacked Weldyn."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:73
+msgid ""
+"Look! The castle has had parts of it completely blown away. How could anyone "
+"cause so much destruction so quickly?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:77
+msgid ""
+"No weapon could have done that. Only powerful magic, of the greatest magi, "
+"could have done such a thing."
+msgstr ""
+
+#. [message]: role=survivor
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:87
+msgid "What? Who's that?"
+msgstr ""
+
+#. [message]: role=survivor
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:92
+msgid ""
+"Oh, Prince Arand! We did our best, your highness...but I guess it wasn't "
+"enough..."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:97
+msgid "What has happened here? Who did this?"
+msgstr ""
+
+#. [message]: role=survivor
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:101
+msgid ""
+"We were...at our posts...as usual...undead...a hoard...like I've never "
+"seen..."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:109
+msgid "They attacked you? Did you see their leader?"
+msgstr ""
+
+#. [message]: role=survivor
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:113
+msgid ""
+"...lich...headed straight for the king...we managed to...hold them off..."
+"until the...royal...family...escaped..."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:117
+msgid ""
+"Dillon, get me a healer, now! I promise you, Lieutenant, you will be honored "
+"for this. I will make sure of that."
+msgstr ""
+
+#. [message]: role=survivor
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:121
+msgid "...thank...you......your...."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:3
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:3
+msgid "A Daring Rescue"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, description=Bogdish
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:100
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:81
+msgid "Bogdish"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:121
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:112
+msgid "Defeat all enemy leaders."
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:125
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:116
+msgid "Death of any Hero Unit"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:138
+msgid "Look! It's the King!"
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:142
+msgid "My son! Arand! Dillon! I'm so glad your alive!"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:146
+msgid "We won't be for long if we don't do something!"
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:150
+msgid ""
+"Let us fight, and leave this for later. If we die, we will have no need to "
+"discuss this further."
+msgstr ""
+
+#. [message]: speaker=Gilder
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:177
+msgid "Quick men! What is this?"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:181
+msgid "Lord Gilder!"
+msgstr ""
+
+#. [message]: speaker=Gilder
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:185
+msgid "Yes. Who are you?"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:189
+msgid "Don't you remember us? Dillon, and Lhyron?"
+msgstr ""
+
+#. [message]: speaker=Gilder
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:193
+msgid "Great stars...the two little boys...where have all the years gone..."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:197
+msgid "Lord Gilder! You arrived just in time!"
+msgstr ""
+
+#. [message]: speaker=Gilder
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:201
+msgid ""
+"Oh! Your Highness! I must report that my lands have been overrun by the "
+"undead. I suggest a course of ac-"
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:205
+msgid ""
+"Gilder! We are experiencing the armegeddon! If you would kindly refrain "
+"until we are out of danger!"
+msgstr ""
+
+#. [message]: speaker=Gilder
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:209
+msgid "Sorry, sir."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:221
+msgid "Father. Mother. You must tell us what occured at Weldyn."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:225
+msgid "It was an undead hoard. It attacked us and forced us to flee."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:229
+msgid "I want to know who those scum were. We shall repay them ten-fold!"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:233
+msgid "Dillon...you understand this better than any of us. You explain."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:237
+msgid "Well sire, I am ashamed to tell you this, but I have to."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:5
+msgid "Apprentice Mage"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:21
+msgid ""
+"There are many academies dedicated to the study of magic, and the training "
+"of new mages. Apprentices must study hard if they ever hope to become magi.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#. [female]
+#: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:115
+msgid "female^Apprentice Mage"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Battle_Princess.cfg:4
+#: The_Life_Of_A_Mage/units/Battle_Prince.cfg:4
+msgid "female^Battle Princess"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Battle_Prince.cfg:31
+msgid ""
+"A noble by birth, the Prince has learnt swordplay with the greatest "
+"generals, and battle tactics with the greatest sages, making her both a "
+"great combatant and leader. Now battle-hardened and strong of will, he can "
+"now aid those around him in the art of combat."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Battle_Princess.cfg:31
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals, and battle tactics with the greatest sages, making her both a "
+"great combatant and leader. Now battle-hardened and strong of will, she can "
+"now aid those around her in the art of combat."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Life_Of_A_Mage/units/Battle_Princess.cfg:35
+#: The_Life_Of_A_Mage/units/Princess.cfg:33
+#: The_Life_Of_A_Mage/units/Queen.cfg:35 The_Life_Of_A_Mage/units/Lady.cfg:33
+#: The_Life_Of_A_Mage/units/CommanderF.cfg:31
+#: The_Life_Of_A_Mage/units/Junior_Princess.cfg:22
+msgid "sabre"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Commander.cfg:5
+msgid "Commander"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Commander.cfg:27
+#: The_Life_Of_A_Mage/units/CommanderF.cfg:27
+msgid ""
+"The rank of Commander is held by those who lead battle groups into combat. "
+"Possessing leadership skills, they give lower-level units in adjacent hexes "
+"improved performance in combat. Commanders are best skilled with the sword, "
+"although they also carry a bow to use when necessary. If the Commander is "
+"lost, so is the battle."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Life_Of_A_Mage/units/King.cfg:35
+#: The_Life_Of_A_Mage/units/Junior_Prince.cfg:22
+#: The_Life_Of_A_Mage/units/Fighteress.cfg:24
+#: The_Life_Of_A_Mage/units/Prince.cfg:31 The_Life_Of_A_Mage/units/Lord.cfg:34
+#: The_Life_Of_A_Mage/units/Commander.cfg:31
+#: The_Life_Of_A_Mage/units/Fighter.cfg:24
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Life_Of_A_Mage/units/King.cfg:44 The_Life_Of_A_Mage/units/Lord.cfg:43
+#: The_Life_Of_A_Mage/units/Commander.cfg:40
+msgid "bow"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/CommanderF.cfg:5
+msgid "female^Commander"
+msgstr ""
+
+#. [unit]: race=undead
+#: The_Life_Of_A_Mage/units/Corpse_Soulless_No_Plague.cfg:7
+msgid "Soulless"
+msgstr ""
+
+#. [unit]: race=undead
+#: The_Life_Of_A_Mage/units/Corpse_Soulless_No_Plague.cfg:23
+msgid ""
+"The technique of animating a dead body is unfortunately well-known to the "
+"dark arts; practitioners often use it to raise servants and soldiers from "
+"unwilling corpses. These shamblers are often numerous, but fragile; a touch "
+"of combat can waken them, though, making them far more formidable."
+msgstr ""
+
+#. [attack]: type=impact
+#. [attack]: type=fire
+#. [attack]: type=cold
+#: The_Life_Of_A_Mage/units/Corpse_Walking_No_Plague.cfg:75
+#: The_Life_Of_A_Mage/units/Corpse_Soulless_No_Plague.cfg:74
+#: The_Life_Of_A_Mage/units/Fire_Ghost.cfg:46
+#: The_Life_Of_A_Mage/units/Ice_Sprite.cfg:99
+msgid "touch"
+msgstr ""
+
+#. [unit]: race=undead
+#: The_Life_Of_A_Mage/units/Corpse_Walking_No_Plague.cfg:9
+msgid "Walking Corpse"
+msgstr ""
+
+#. [unit]: race=undead
+#: The_Life_Of_A_Mage/units/Corpse_Walking_No_Plague.cfg:24
+msgid ""
+"Walking Corpses are the bodies of the dead, re-animated by dark magic. "
+"Though not especially dangerous to a trained soldier, the sight of one's "
+"former comrades amongst their number is frightening to say the least."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Fighter.cfg:5
+msgid "Fighter"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Fighteress.cfg:19
+#: The_Life_Of_A_Mage/units/Fighter.cfg:19
+msgid ""
+"Young and brash, Fighters attack with a sword, and are vulnerable to more "
+"seasoned enemies. However they have the potential to become great warriors "
+"one day."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Fighteress.cfg:5
+msgid "female^Fighteress"
+msgstr ""
+
+#. [unit]: race=monster
+#: The_Life_Of_A_Mage/units/Fire_Ghost.cfg:5
+msgid "Fire Ghost"
+msgstr ""
+
+#. [unit]: race=monster
+#: The_Life_Of_A_Mage/units/Fire_Ghost.cfg:26
+msgid ""
+"A certain group of apprentice magi, from the Academy of Anduin, formed a "
+"secret study group, where they learned dark magic. One of the by-products of "
+"these meetings was a fiery monster. It is unknown whether this demon was "
+"created by the magi, or merely summoned. It was apparently sealed away by "
+"the power of the Icestone."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Life_Of_A_Mage/units/Fire_Ghost.cfg:55
+msgid "breath"
+msgstr ""
+
+#. [unit]: race=monster
+#: The_Life_Of_A_Mage/units/Ice_Sprite.cfg:7
+msgid "Ice Sprite"
+msgstr ""
+
+#. [unit]: race=monster
+#: The_Life_Of_A_Mage/units/Ice_Sprite.cfg:19
+msgid ""
+"Though this glowing force does seem to bear some semblence of intelligent "
+"life, it is really only the manifestation of the power contained in the "
+"Icestone. Its most deadly characteristic is the fact that it grows if not "
+"defeated immediately."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Junior_Prince.cfg:5
+msgid "Junior Prince"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Junior_Prince.cfg:18
+msgid ""
+"As the name implies, junior princes are princes that have not fully grown "
+"into themselves yet. While they have the necessary skills in the art of "
+"swordplay, they are lacking in leadership, descretion, and just plain common "
+"sense."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Junior_Princess.cfg:5
+msgid "female^Junior Princess"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Junior_Princess.cfg:18
+msgid ""
+"As the name implies, junior princesses are princesses that have not fully "
+"grown into themselves yet. While they have the necessary skills in the art "
+"of swordplay, they are lacking in leadership, descretion, and just plain "
+"common sense."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/King.cfg:5
+msgid "King"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/King.cfg:29
+msgid ""
+"Konrad is the King of the entire land of Wesnoth. He became such by marrying "
+"Queen Li'sar, with whom he rules jointly."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Lady.cfg:5
+msgid "Lady"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Lady.cfg:28
+msgid ""
+"The noble leaders of many troops, Ladies are especially quick in melee "
+"combat. Like Commanders, Ladies possess leadership skills, and improve the "
+"fighting ability of all adjacent lower-level units."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Lord.cfg:5
+msgid "Lord"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Lord.cfg:28
+msgid ""
+"The noble leaders of many troops, Lords are especially strong in melee "
+"combat, and also possess skill with the bow. Like Commanders, Lords possess "
+"leadership skills, and improve the fighting ability of all adjacent lower-"
+"level units."
+msgstr ""
+
+#. [male]: race=human
+#. [variation]: race=human
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Peasant_Child.cfg:7
+#: The_Life_Of_A_Mage/units/Peasant_Child.cfg:25
+#: The_Life_Of_A_Mage/units/Peasant_Child.cfg:190
+msgid "Peasant Child"
+msgstr ""
+
+#. [male]: race=human
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Peasant_Child.cfg:22
+#: The_Life_Of_A_Mage/units/Peasant_Child.cfg:40
+msgid "Young and fragile, children are easily finished."
+msgstr ""
+
+#. [female]
+#: The_Life_Of_A_Mage/units/Peasant_Child.cfg:113
+msgid "female^Peasant Child"
+msgstr ""
+
+#. [variation]: race=human
+#: The_Life_Of_A_Mage/units/Peasant_Child.cfg:207
+msgid ""
+"Young and fragile, children are easily finished.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Peasant_Wife.cfg:5
+msgid "Peasant Wife"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Peasant_Wife.cfg:29
+msgid ""
+"While their husbands spend the day working in the fields, the women's main "
+"job is to take care of the house and raise the family.\n"
+"\n"
+"Because taking care of a family is a relatively peaceful job, being a mother "
+"requires no great skill in combat. If anyone threatenes her family however, "
+"they are liable for punishment at the end of a stick. \n"
+"\n"
+"Like all good mothers, they have the knowledge of healing necessary to fix "
+"up anything from cuts and scrapes, to minor war wounds."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Life_Of_A_Mage/units/Peasant_Wife.cfg:98
+msgid "staff"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Prince.cfg:5
+msgid "Prince"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Prince.cfg:27
+msgid ""
+"A noble by birth, the Prince has learnt swordplay with the greatest generals "
+"and battle tactics with the greatest sages, making him both a great "
+"combatant and leader. The units of lower level around the Prince will fight "
+"better due to his presence. The Prince is also nimble and dextrous, having "
+"skills like that of a thief."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Princess.cfg:5
+msgid "female^Princess"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Princess.cfg:29
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals and battle tactics with the greatest sages, making her both a great "
+"combatant and leader. The units of lower level around the Princess will "
+"fight better due to her presence. The Princess is also nimble and dextrous, "
+"having skills like that of a thief."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Queen.cfg:5
+msgid "female^Queen"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Queen.cfg:31
+msgid ""
+"The one and only Queen of Wesnoth, Li'sar is the daughter of Garard II, and "
+"is the true heir to the throne. Therefor she holds the Scepter of Fire. She "
+"married the lord Konrad, making him King of Wesnoth."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Life_Of_A_Mage/units/Queen.cfg:44
+msgid "scepter of fire"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Wounded_Lieutenant.cfg:5
+msgid "Lieutenant"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Wounded_Lieutenant.cfg:16
+msgid "This Wesnothian leader has been wounded in combat."
+msgstr ""
+
+#. [stones]
+#: The_Life_Of_A_Mage/utils/abilities.cfg:6
+msgid "freezes"
+msgstr ""
+
+#. [stones]
+#: The_Life_Of_A_Mage/utils/abilities.cfg:8
+msgid ""
+"Freezes:\n"
+"This attack freezes an opponent in ice. Units that have been frozen may not "
+"move or attack."
+msgstr ""
+
+#. [resistance]
+#: The_Life_Of_A_Mage/utils/abilities.cfg:23
+msgid "maternal"
+msgstr ""
+
+#. [resistance]
+#: The_Life_Of_A_Mage/utils/abilities.cfg:25
+msgid ""
+"Maternal:\n"
+"This unit's resistances are doubled, up to a maximum of 50%, when defending. "
+"Vulnerabilities are not affected."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/utils/deaths.cfg:12
+msgid "What a fool I am! I have led you all to failure!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/utils/deaths.cfg:26
+msgid "Dillon would never do this to me!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/utils/deaths.cfg:40
+msgid "I had such faith in you Dillon..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/utils/deaths.cfg:54
+msgid "All is in vain..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/utils/deaths.cfg:68
+msgid "I have lived such a long time..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/utils/deaths.cfg:127
+msgid "@%*(#^#!@$*#@&$(!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Life_Of_A_Mage/utils/deaths.cfg:141
+msgid "Uhh..."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/utils/deaths.cfg:159
+msgid "This can't possibly be the end..."
+msgstr ""
+
+#. [message]: speaker=Lhyron
+#: The_Life_Of_A_Mage/utils/deaths.cfg:173
+msgid "Why? WHY?"
+msgstr ""
+
+#. [message]: speaker=Gilder
+#: The_Life_Of_A_Mage/utils/deaths.cfg:201
+msgid "After all this..."
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/utils/deaths.cfg:215
+msgid "No! The kingdom needs me!"
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/utils/deaths.cfg:229
+msgid "Thus the kingdom of Wesnoth falls."
+msgstr ""
+
+#. [message]: speaker=Li'sar
+#: The_Life_Of_A_Mage/utils/deaths.cfg:243
+msgid "The Scepter. I have failed."
+msgstr ""
+
+#. [message]: speaker=Ana'sar
+#: The_Life_Of_A_Mage/utils/deaths.cfg:257
+msgid "Death flies on silent wings..."
+msgstr ""
+
+#. [message]: speaker=Eldaric
+#: The_Life_Of_A_Mage/utils/deaths.cfg:271
+msgid "But...I could have been a hero..."
+msgstr ""
+
+#. [trait]
+#: The_Life_Of_A_Mage/utils/traits.cfg:6
+msgid "strong willed"
+msgstr ""
+
+#. [trait]
+#: The_Life_Of_A_Mage/utils/traits.cfg:7
+msgid "female^strongwilled"
+msgstr ""
+
+#. [trait]
+#: The_Life_Of_A_Mage/utils/traits.cfg:8
+msgid "A strong willed magi can conjure more powerful spells."
+msgstr ""
+
+#. [object]
+#: The_Life_Of_A_Mage/utils/utils.cfg:9
+msgid "To Be Continued"
+msgstr ""
+
+#. [object]: description=_ {DESCRIPTION}
+#: The_Life_Of_A_Mage/utils/utils.cfg:247
+msgid "Icestone"
+msgstr ""
+
+#. [effect]: type=cold
+#: The_Life_Of_A_Mage/utils/utils.cfg:258
+msgid "icytouch"
+msgstr ""
+
+#. [effect]: type=cold
+#: The_Life_Of_A_Mage/utils/utils.cfg:271
+msgid "icebeam"
+msgstr ""
