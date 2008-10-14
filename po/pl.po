@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-07-20 00:14+0200\n"
+"POT-Creation-Date: 2008-10-14 18:42+0200\n"
 "PO-Revision-Date: 2008-07-20 00:14+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -13,27 +13,27 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 
 #. [campaign]
-#: The_Life_Of_A_Mage/_main.cfg:11
+#: The_Life_Of_A_Mage/_main.cfg:9
 msgid "The Life of a Mage"
 msgstr ""
 
 #. [campaign]
-#: The_Life_Of_A_Mage/_main.cfg:18
+#: The_Life_Of_A_Mage/_main.cfg:16
 msgid "Apprentice=(easiest)"
 msgstr ""
 
 #. [campaign]
-#: The_Life_Of_A_Mage/_main.cfg:19
+#: The_Life_Of_A_Mage/_main.cfg:17
 msgid "Mage"
 msgstr ""
 
 #. [campaign]
-#: The_Life_Of_A_Mage/_main.cfg:20
+#: The_Life_Of_A_Mage/_main.cfg:18
 msgid "Great Mage=(hardest)"
 msgstr ""
 
 #. [campaign]
-#: The_Life_Of_A_Mage/_main.cfg:25
+#: The_Life_Of_A_Mage/_main.cfg:23
 msgid ""
 "The young boy Dillon only wanted to live his life in peace. After his "
 "village is destroyed by bandits however, he is forced to throw his lot with "
@@ -45,37 +45,42 @@ msgid ""
 msgstr ""
 
 #. [about]
-#: The_Life_Of_A_Mage/_main.cfg:28
+#: The_Life_Of_A_Mage/_main.cfg:26
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: The_Life_Of_A_Mage/_main.cfg:34
+#: The_Life_Of_A_Mage/_main.cfg:32
 msgid "Current Maintainer"
 msgstr ""
 
 #. [about]
-#: The_Life_Of_A_Mage/_main.cfg:40
-msgid "Story"
+#: The_Life_Of_A_Mage/_main.cfg:38
+msgid "Story and Dialogue"
 msgstr ""
 
 #. [about]
-#: The_Life_Of_A_Mage/_main.cfg:49
+#: The_Life_Of_A_Mage/_main.cfg:50
 msgid "Testing"
 msgstr ""
 
 #. [about]
-#: The_Life_Of_A_Mage/_main.cfg:55
+#: The_Life_Of_A_Mage/_main.cfg:71
+msgid "WML Help"
+msgstr ""
+
+#. [about]
+#: The_Life_Of_A_Mage/_main.cfg:77
 msgid "Graphics stolen from various versions of the following:"
 msgstr ""
 
 #. [about]
-#: The_Life_Of_A_Mage/_main.cfg:67
+#: The_Life_Of_A_Mage/_main.cfg:90
 msgid "Graphical Editing and Hodge-podging"
 msgstr ""
 
 #. [about]
-#: The_Life_Of_A_Mage/_main.cfg:73
+#: The_Life_Of_A_Mage/_main.cfg:96
 msgid "Music and Sound"
 msgstr ""
 
@@ -84,33 +89,34 @@ msgstr ""
 msgid "Townsquare"
 msgstr ""
 
+#. [side]: type=Advanced Mage, description=Dillon
+#. [side]: type=Advanced Apprentice Mage, description=Dillon
 #. [side]: type=Peasant Child, description=Dillon
-#. [side]: type=Mage, description=Dillon
-#. [side]: type=Apprentice Mage, description=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:18
-#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:18
-#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:18
-#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:18
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:18
-#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:18
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:18
-#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:18
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:18
 #: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:18
-#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:18
 #: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:18
-#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:18
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:18
 #: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:18
 #: The_Life_Of_A_Mage/scenarios/00_3_Council.cfg:18
 #: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:17
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:18
 #: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:18
-#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:18
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:17
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:18
-#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:18
-#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:18
 #: The_Life_Of_A_Mage/scenarios/03-2_Choices.cfg:18
+#: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:18
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:18
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:18
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:18
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:17
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:18
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:18
+#: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:18
+#: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:18
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:18
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:18
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:18
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:18
 #: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:18
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:18
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:18
 msgid "Dillon"
 msgstr ""
 
@@ -134,10 +140,10 @@ msgstr ""
 #. [side]: type=Assassin, description=Karin
 #. [unit]: type=Shadow, description=Karin
 #. [unit]: type=Lich, description=Karin
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:71
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:84
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:73
 #: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:270
 #: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:503
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:84
 msgid "Karin"
 msgstr ""
 
@@ -191,14 +197,14 @@ msgid ""
 "Gilder should be just up the path!"
 msgstr ""
 
-#. [message]: speaker=Jamarn
 #. [message]: speaker=unit
+#. [message]: speaker=Jamarn
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:625
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:243
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:284
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:246
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:287
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:633
 #: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:162
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:387
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:384
 #: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:199
 msgid "But..."
 msgstr ""
@@ -214,28 +220,28 @@ msgid "Move Dillon to the Go Here icon in the north-east corner of the map."
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:107
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:66
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:108
 #: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:65
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:63
-#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:83
-#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:147
 #: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:180
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:408
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:334
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:369
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:405
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:83
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:345
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:380
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:147
 msgid "Death of Dillon"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:129
-#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:100
-#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:91
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:155
 #: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:177
 #: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:208
 #: The_Life_Of_A_Mage/scenarios/00_3_Council.cfg:56
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:142
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:145
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:155
+#: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:100
 #: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:184
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:91
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:131
 msgid "Turns run out"
 msgstr ""
 
@@ -250,149 +256,149 @@ msgid "Nothing in particular"
 msgstr ""
 
 #. [effect]: type=fire
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:249
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:246
 msgid "missile"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:321
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:318
 msgid "It is in the beautiful spring that our story starts..."
 msgstr ""
 
 #. [message]: speaker=Olaf
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:326
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:323
 msgid "Ahh, what a day. It's the kind that makes you glad to be alive!"
 msgstr ""
 
 #. [message]: speaker=Lylla
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:330
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:327
 msgid "Oh yes, spring is so wonderful. Oh! Look at that lovely flower!"
 msgstr ""
 
 #. [message]: speaker=Lylla
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:334
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:331
 msgid "Dillon, why don't you go and play with your friends."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:338
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:335
 msgid "Yes, Mother."
 msgstr ""
 
 #. [message]: speaker=Karin
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:371
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:368
 msgid "Ha, ha, you know what to do, men! Plunder the village!"
 msgstr ""
 
 #. [message]: speaker=Olaf
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:375
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:372
 msgid "Bandits! Quick! Sound the alarm!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:379
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:376
 msgid "Yes sir!"
 msgstr ""
 
 #. [message]: speaker=Urlaf
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:383
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:380
 msgid "Protect the patriarch! Dillon, recruit some villagers to protect you!"
 msgstr ""
 
 #. [message]: speaker=Lylla
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:391
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:388
 msgid "Do as he says!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:395
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:392
 msgid "Yes, mother..."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:404
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:401
 msgid "Evade the bandits"
 msgstr ""
 
 #. [message]: role=Getoutguy
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:435
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:432
 msgid "That's it, Dillon. Go! Leave! Get help!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:454
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:451
 msgid "Wait! Dillon, or whatever your name is. I want to come with you!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:458
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:455
 msgid "What? Who are you?"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:462
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:459
 msgid "My name is Lhyron, and I wish to aid you."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:466
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:463
 msgid "Very well, you may come with me."
 msgstr ""
 
 #. [message]: role=Peasantleave
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:491
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:488
 msgid "We will stay behind to help defend the village!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:495
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:492
 msgid "Yes, keep Karin off until I can return with reenforcements."
 msgstr ""
 
 #. [message]: speaker=Lylla
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:533
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:530
 msgid "Dillon!"
 msgstr ""
 
-#. [message]: speaker=Olaf
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:537
+#. [message]: speaker=Olaf
 #: The_Life_Of_A_Mage/utils/deaths.cfg:187
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:534
 msgid "No!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:541
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:538
 msgid "...oog..."
 msgstr ""
 
 #. [message]: speaker=Olaf
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:555
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:552
 msgid "No! Lylla!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:559
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:556
 msgid "Mother!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:570
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:567
 msgid "Father!"
 msgstr ""
 
 #. [message]: speaker=Lylla
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:574
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:571
 msgid "Olaf!"
 msgstr ""
 
 #. [message]: role=Childwelfare
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:589
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:586
 msgid "Oh! Have you no heart? Those are children!"
 msgstr ""
 
 #. [message]: speaker=Karin
-#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:593
+#: The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:590
 msgid "Silence!"
 msgstr ""
 
@@ -430,12 +436,12 @@ msgid "Well...you see, both my parents were slaughtered by those cowards!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#. [message]: speaker=Marcos
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:118
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:199
+#. [message]: speaker=Marcos
 #: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:272
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:154
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:199
+#: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:118
 msgid "..."
 msgstr ""
 
@@ -530,7 +536,7 @@ msgstr ""
 #: The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:227
 msgid ""
 "Good! Who knows what will have happened to our village by now. We must make "
-"hast!"
+"haste!"
 msgstr ""
 
 #. [scenario]
@@ -554,27 +560,27 @@ msgid "Regrets"
 msgstr ""
 
 #. [side]: type=Assassin, description=Goren
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:83
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:85
 msgid "Goren"
 msgstr ""
 
 #. [side]: type=Assassin, description=Ungul
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:95
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:97
 msgid "Ungul"
 msgstr ""
 
 #. [objectives]
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:119
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:121
 msgid "Dillon and Lhyron can be defeated, but will still survive"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:121
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:123
 msgid "Defeat all enemy Leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:125
+#: The_Life_Of_A_Mage/scenarios/00_4_Regrets.cfg:127
 msgid "Death of Lord Gilder"
 msgstr ""
 
@@ -583,59 +589,59 @@ msgstr ""
 msgid "First Try"
 msgstr ""
 
-#. [side]: type=Apprentice Mage, description=Dillon
+#. [side]: type=Advanced Apprentice Mage, description=Dillon
 #: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:19
 msgid "Dillon is trained in the arts of magic by master magi. His "
 msgstr ""
 
+#. [side]: type=Advanced Apprentice Mage, description=Slinian
 #. [unit]: type=Necromancer, description=Slinian
-#. [side]: type=Apprentice Mage, description=Slinian
+#. [unit]: description=Slinian, type=Advanced Apprentice Mage
 #. [side]: type=Necromancer, description=Slinian
-#. [unit]: description=Slinian, type=Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:35
 #: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:117
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:36
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:63
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:95
 #: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:29
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:51
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:84
 msgid "Slinian"
 msgstr ""
 
 #. [side]: type=Arch Mage, description=Leogwyn
 #. [unit]: description=Leogwyn, type=Arch Mage
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:53
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:87
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:306
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:52
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:99
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:317
 msgid "Leogwyn"
 msgstr ""
 
 #. [unit]: description=Elycla, type=Arch Mage
 #. [side]: type=Arch Mage, description=Elycla
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:65
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:64
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:100
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:315
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:66
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:63
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:112
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:326
 msgid "Elycla"
 msgstr ""
 
 #. [part]
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:73
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:72
 msgid ""
 "Dillon raced across the plains, not noticing where he was going, so caught "
 "up in his despair. He did not even stop to rest when the night came, and he "
-"spent days without food or water. He finally collapsd in the vicinity of an "
-"old hermit's home. He immediately took Dillon in and nursed him back to "
+"spent days without food or water. He finally collapsed in the vicinity of an "
+"old hermit's home who immediately took Dillon in and nursed him back to "
 "health."
 msgstr ""
 
 #. [part]
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:77
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:76
 msgid ""
 "Dillon eventually overcame his shock at the news that Karin was his brother. "
 "But he never forgot the guilt he carried for killing his sibling."
 msgstr ""
 
 #. [part]
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:81
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:80
 msgid ""
 "The hermit was actually a retired mage, and he sensed great potential in "
 "Dillon. He sent Dillon and his friends to the Academy on the Isle of Anduin "
@@ -645,48 +651,48 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:85
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:84
 msgid ""
 "Apart from the typical studying and practicing of magic, the academy also "
 "trained magi in combat, and leadership."
 msgstr ""
 
 #. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:141
 #: The_Life_Of_A_Mage/scenarios/05_Betrayal.cfg:92
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:138
 msgid "Defeat Slinian"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:156
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:159
 msgid "The Academy of Anduin, -538 YW"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:161
-msgid "Alright you lazy slugs! It time for the match!"
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:164
+msgid "Alright you lazy slugs! It's time for the match!"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:165
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:461
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:324
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:527
 #: The_Life_Of_A_Mage/utils/deaths.cfg:87
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:168
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:448
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:336
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:538
 msgid "Leogwyn!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:169
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:465
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:328
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:531
 #: The_Life_Of_A_Mage/utils/deaths.cfg:91
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:172
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:452
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:340
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:542
 msgid "My apologies."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:173
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:176
 msgid ""
 "Alright listen up. The battle is about to begin. For those of you who don't "
 "know the rules, the point is to ''kill'' the other team's leader. If your hp "
@@ -694,81 +700,81 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:177
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:180
 msgid "Don't worry, we know the drill."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:181
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:184
 msgid "Yeah, Dillon knows how to lose! Ha, ha!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:185
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:188
 msgid "We'll see about that..."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:202
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:205
 msgid "Come on Dillon. Let's show them what we can do."
 msgstr ""
 
 #. [message]: speaker=Jamarn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:218
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:221
 msgid "Heh, heh! We shall smear you into the dust!"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:222
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:225
 msgid "Now, now..."
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:239
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:280
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:242
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:283
 msgid "You're out."
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:247
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:250
 msgid "He got you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:251
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:292
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:254
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:295
 msgid "Please!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:255
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:296
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:258
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:299
 msgid "YOU'RE OUT!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:288
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:291
 msgid "She got you."
 msgstr ""
 
 #. [message]: speaker=Jamarn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:434
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:340
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:421
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:352
 msgid "Noooo!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:445
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:432
 msgid "Aww..."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:453
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:440
 msgid "Times up. What? you haven't finished yet!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:457
+#: The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:444
 msgid ""
 "You are slower than an over engorged snail. I must laugh at you. Ah ha ha ha!"
 msgstr ""
@@ -778,77 +784,77 @@ msgstr ""
 msgid "The Plan"
 msgstr ""
 
-#. [unit]: description=Lhyron, type=Apprentice Mage
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:34
+#. [unit]: description=Lhyron, type=Advanced Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:44
 msgid "Lhyron"
 msgstr ""
 
+#. [unit]: description=Jamarn, type=Advanced Apprentice Mage
 #. [unit]: description=Jamarn, type=Necrophage
-#. [unit]: description=Jamarn, type=Apprentice Mage
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:81
 #: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:125
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:69
 msgid "Jamarn"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:145
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:157
 msgid "Whew! I'm tired. You fought well, Slinian."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:149
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:161
 msgid "You won on sheer luck."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:153
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:165
 msgid "YOU'RE just bitter at having lost."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:157
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:169
 msgid "Bitter! Me? Never!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:161
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:173
 msgid "Lhyron, shut up!"
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:165
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:177
 msgid ""
 "You think you're so great. I'd like to see you do something that isn't some "
 "task the masters set you."
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:173
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:185
 msgid "I have an idea. Have any of you heard of the Icestone?"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:177
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:189
 msgid "It sounds familiar..."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:181
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:193
 msgid "I have no idea."
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:185
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:197
 msgid "Oh, by the headmaster's big toe! Don't you know anything?"
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:189
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:201
 msgid "They haven't read every book in the Library, like you have."
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:193
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:205
 msgid ""
 "(sigh) It's an old school legend. The legend is that a certain group of "
 "apprentices started practicing out of class. This is perfectly normal as you "
@@ -857,7 +863,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:197
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:209
 msgid ""
 "In their research, it seems, they came perilously close to the darker forms "
 "of magic, blending it with their school magic. Being gifted with "
@@ -870,12 +876,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:201
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:213
 msgid "What happened to it?"
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:205
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:217
 msgid ""
 "Apparently one of the students became uncomfortable with the use of "
 "questionable magic in their meetings. He exposed the rest to the headmaster, "
@@ -886,153 +892,153 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:209
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:221
 msgid "You mean they're still around?"
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:213
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:225
 msgid "So the legend says."
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:217
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:229
 msgid ""
 "I was thinking that if Dillon wanted to do something to stand out, he might "
 "lead an expedition to find the Icestone."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:221
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:233
 msgid "We're in school."
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:225
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:237
 msgid "We'll do it at night."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:229
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:241
 msgid "Why can't I lead the expedition?"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:233
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:245
 msgid "You lost, now shut up."
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:237
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:249
 msgid "If anyone can do it, Dillon can."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:241
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:253
 msgid "I will try to fulfill your expectations."
 msgstr ""
 
 #. [message]: role=supporter
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:245
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:257
 msgid ""
 "Dillon is a military genius when it comes to magic. I personally will be "
 "with you every step of the way."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:252
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:264
 msgid "You can recall your magi during your quest."
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:256
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:268
 msgid ""
 "That's settled then. We shall start tomorrow night. I know there is a trap "
 "door in the dungeons somewhere."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:260
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:272
 msgid "Are you coming Slinian?"
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:264
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:276
 msgid "Yes, shut up."
 msgstr ""
 
 #. [unit]: description=Marcos, type=Apprentice Mage
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:285
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:297
 msgid "Marcos"
 msgstr ""
 
 #. [unit]: description=Mordrid, type=Apprentice Mage
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:294
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:306
 msgid "Mordrid"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:307
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:319
 msgid "A few minutes later..."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:312
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:324
 msgid "Well done Dillon. That was a battle worth talking about."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:316
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:328
 msgid "Ahh, it was nothing."
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:320
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:332
 msgid ""
-"Now, don't you get cocky. In a real battle you won't facing a bunch of lousy "
-"magi!"
+"Now, don't you get cocky. In a real battle you won't be facing a bunch of "
+"lousy magi!"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:332
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:344
 msgid "We will move you up in the ranks as soon as we can, Dillon."
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:336
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:348
 msgid ""
 "You can all look forward to tomorrow as another day of completely boring "
 "STUDYING!"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:344
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:356
 msgid ""
 "Anyway, (glares at Leogwyn) enjoy your break, and don't stay up too late!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:348
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:360
 msgid "Which is something Elycla NEVER does."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:352
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:364
 msgid "Elycla brings her staff down on Leogwyn's head."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:362
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:374
 msgid "Ooh, that's gonna leave a mark!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:366
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:378
 msgid "He's gonna have a coconut on his head tomorrow."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:370
+#: The_Life_Of_A_Mage/scenarios/02_The_Plan.cfg:382
 msgid "Shut up."
 msgstr ""
 
@@ -1199,7 +1205,7 @@ msgstr ""
 
 #. [unit]: description=Elendil, type=White Mage
 #: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:240
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:548
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:556
 msgid "Elendil"
 msgstr ""
 
@@ -1260,7 +1266,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #. [message]: speaker=Headmaster
 #: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:287
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:173
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:184
 msgid "Very well."
 msgstr ""
 
@@ -1292,102 +1298,102 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:433
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:441
 msgid "Aiee! This place IS haunted!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:437
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:445
 msgid "Don't panic!"
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:441
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:449
 msgid "Kill it!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:445
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:453
 msgid "EEEEEEEEEEE!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:449
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:457
 msgid "(shudder)"
 msgstr ""
 
 #. [message]: role=Doomsday
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:467
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:475
 msgid "He's dead! We'll be expelled for sure!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:491
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:499
 msgid "Dillon! I found a way out!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:495
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:503
 msgid "I'm on my way!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:508
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:516
 msgid "Come on! We're running out of time!"
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:512
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:520
 msgid "This quest isn't all that fun, you know."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:534
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:559
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:542
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:567
 msgid "WAIT!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:538
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:546
 msgid "What? Is there a problem?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:542
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:550
 msgid ""
 "This is not the exit. This must be south. The entrance is north. We must "
 "move in the opposite direction."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:563
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:571
 msgid "Hey! Who are you?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:567
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:575
 msgid ""
-"This is not the exit. This is south. The exit is north. You must move in the "
-"opposite direction."
+"This is not the exit. This is south. The entrance is north. You must move in "
+"the opposite direction."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:573
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:581
 msgid "But we are not trying to get out. We are on a quest."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:577
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:585
 msgid "Quest? What quest could possibly lead you down here!?"
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:581
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:589
 msgid "We are searching for the Icestone."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:585
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:593
 msgid ""
 "THE ICESTONE!!? The Icestone was sealed away for a reason! If it were to get "
 "into the wrong hands, the results could be disasterous! Leave it as it is, "
@@ -1395,49 +1401,49 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:589
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:597
 msgid ""
 "Leave the Icestone? After all this? Impossible! Everything would be wasted!"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:593
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:601
 msgid ""
 "If it is a choice between that, and the powers of the Icestone being used "
 "for evil, I will take to former!"
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:597
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:605
 msgid "We could keep it safe! We would use it for good!"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:601
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:609
 msgid ""
 "You think? Who knows, perhaps you would use it well. But could you protect "
 "it from ones who would use it otherwise?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:605
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:613
 msgid ""
 "I am worried about you. The Stone can be used for good, but it has a natural "
 "evil. The lust for power. It corrupts the soul. That is the danger."
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:609
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:617
 msgid "Sir, if you do not trust us, do you trust Dillon?"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:613
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:621
 msgid "What? Why would he..."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:617
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:625
 msgid ""
 "Yes, there is something about you, boy. I can feel it. Yes, I believe if "
 "anyone were worthy of taking the Stone it would be you. But you are too "
@@ -1446,12 +1452,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:621
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:629
 msgid "Very well. Come on, friends, Let us leave this place."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:629
+#: The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:637
 msgid "Go!"
 msgstr ""
 
@@ -1761,9 +1767,9 @@ msgid "Dillon, you'd better take it."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:93
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:94
 #: The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:396
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:445
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:456
 msgid "Okay."
 msgstr ""
 
@@ -2127,56 +2133,56 @@ msgid "Then one day..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:61
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:62
 msgid "Isle of Anduin, -552 YW"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:73
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:74
 msgid "Pardon me, Dillon, but do you have a moment?"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:77
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:78
 msgid "Yes, what do you need."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:81
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:82
 msgid ""
 "The Headmaster is traveling to the city of Elensafar. There are a group of "
 "children that wish to attend the academy."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:85
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:86
 msgid "That's great!"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:89
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:90
 msgid "He is also asked Leogwyn and me to accompany him."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:97
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:98
 msgid "He was also wondering if you would come."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:101
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:102
 msgid ""
 "Up to Elensafar? Yes, I could do that. I need to get off this island for a "
 "while anyway."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:105
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:106
 msgid "Very well, meet us at the dock, in two days time."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:109
+#: The_Life_Of_A_Mage/scenarios/06_Consequences.cfg:110
 msgid "I understand."
 msgstr ""
 
@@ -2195,12 +2201,12 @@ msgstr ""
 #. [side]: type=Grand Knight, description=Morien
 #: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:28
 #: The_Life_Of_A_Mage/scenarios/08_A_Cry_For_Help.cfg:42
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:72
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:74
 msgid "Lord Morien"
 msgstr ""
 
 #. [part]
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:105
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:116
 msgid ""
 "Two days later, they set out for Elensafar by ship. Unfortunatly the voyage "
 "did not go so smoothly. They ran into a storm which destroyed their boat. "
@@ -2208,191 +2214,191 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:119
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:130
 msgid ""
 "The magi made their way to the city, where the young children where waiting. "
 "Because they no longer had a boat, they began the long march back...by land."
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:145
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:156
 msgid "Where did he go? He just disappeared!"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:149
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:160
 msgid "I think it is safe to assume that Slinian is still alive."
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:153
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:164
 msgid ""
 "I think so too. But our priority now is to return the children to Anduin."
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:157
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:168
 msgid "Headmaster, permission to investigate the ruins for the Necromancer."
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:161
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:172
 msgid "Permission granted."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:165
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:176
 msgid ""
 "Wait just one second! You are not going into a dangerous place like that "
 "with out me!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:169
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:180
 msgid "Continue on without us, Headmaster. We'll catch up when were finished."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:190
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:201
 msgid "That's it. The children are safely though."
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:194
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:205
 msgid "Good job, Dillon. Let us leave this place now."
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:198
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:209
 msgid "Wait! Are you going to leave this Necromancer to do his evil?"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:202
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:213
 msgid "He has a point."
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:206
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:217
 msgid "I see...Dillon what to you think we should do?"
 msgstr ""
 
 #. [option]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:208
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:219
 msgid ""
 "We should leave here at once. We should try to return to Anduin immediately."
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:212
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:223
 msgid "Then what are we waiting for? Let us leave at once."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:216
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:227
 msgid ""
 "I warn you, Dillon, you can run all you wish, but I will catch up to you "
 "eventually! And when I do, you will be sorry our paths ever crossed!"
 msgstr ""
 
 #. [option]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:226
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:237
 msgid "Sorry, Headmaster, but I have a serious bone to pick with that scum!"
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:230
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:241
 msgid "Very well, we shall slay the Necromancer."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:234
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:245
 msgid "Ha! You can try! But you won't succeed!"
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:238
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:249
 msgid "Silence, dirtbag!"
 msgstr ""
 
 #. [objectives]
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:324
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:335
 msgid ""
 "After you safely move the children you may continue to pummel Slinian, if "
 "you wish."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:326
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:361
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:337
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:372
 msgid "Escort the children to the end of the path"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:330
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:365
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:341
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:376
 msgid "Defeat Slinian(Bonus)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:111
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:338
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:373
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:112
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:349
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:384
 msgid "Death of Lord Morien"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:342
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:377
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:353
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:388
 msgid "Death of the Headmaster"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:346
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:381
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:357
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:392
 msgid "Death of Leogwyn"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:350
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:385
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:361
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:396
 msgid "Death of Elycla"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:354
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:389
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:365
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:400
 msgid "Death of any child"
 msgstr ""
 
 #. [label]
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:396
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:407
 msgid "Move Children Here"
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:409
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:420
 msgid "Stop! Something is not right here..."
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:413
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:424
 msgid "I agree, it's too quiet."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:417
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:428
 msgid ""
 "My my, if it isn't my old friend Dillon, and those decrepid old teachers."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:421
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:432
 msgid "Slinian! What are you doing here?"
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:425
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:436
 msgid ""
 "Well, you see, when you forced me leave the academy, I didn't have any place "
 "to go did I? So I settled down here, in this forest, where I could practice "
@@ -2400,94 +2406,93 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:429
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:440
 msgid "A necromancer. Scum of the earth."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:433
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:444
 msgid ""
 "Anyway, I think I've waited long enough for my revenge. You would make a "
 "great addition to my army, eh, Dillon?"
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:437
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:448
 msgid ""
 "Dillon, this man means business. Our highest priority is the safety of the "
 "children. Lead them safely past this unholy forest."
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:441
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:452
 msgid ""
 "We will try to distract Slinian while you and Lord Morien move the children."
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:449
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:460
 msgid "Affirmitive."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:461
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:472
 msgid "Argh! Curse you, Dillon. I will return to deal with you later!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:477
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:488
 msgid "Ugh...whats happening?"
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:481
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:492
 msgid "Dillon, you fool! You were supposed to protect the children!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:523
-#: The_Life_Of_A_Mage/utils/deaths.cfg:83
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:534
 msgid "@%#*!@"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:545
 #: The_Life_Of_A_Mage/utils/deaths.cfg:105
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:556
 msgid "Aargh! I'm dying!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:549
 #: The_Life_Of_A_Mage/utils/deaths.cfg:109
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:560
 msgid "Nooooo!"
 msgstr ""
 
 #. [message]: speaker=Dillon
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:105
-#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:538
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:217
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:563
+#: The_Life_Of_A_Mage/scenarios/14_Weldyn_Down.cfg:105
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:574
+#: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:538
 msgid "Oh..."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:567
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:578
 msgid "No! Not the Headmaster! We need him!"
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:581
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:592
 msgid "No! Not now..."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:585
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:596
 msgid "Ah ha ha ha!"
 msgstr ""
 
 #. [message]: speaker=Headmaster
-#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:599
+#: The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:610
 msgid "We are doomed!"
 msgstr ""
 
@@ -2604,125 +2609,125 @@ msgstr ""
 #. [unit]: type=Prince, description=Arand
 #. [side]: type=Prince, description=Arand
 #: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:44
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:39
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:29
-#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:29
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:30
 #: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:44
+#: The_Life_Of_A_Mage/scenarios/11-1_The_Investigation.cfg:29
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:40
 #: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:44
 msgid "Arand II"
 msgstr ""
 
 #. [side]: type=Fugitive, description=Hugo
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:57
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:58
 msgid "Hugo"
 msgstr ""
 
 #. [side]: type=Highwayman, description=Ryan
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:74
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:75
 msgid "Ryan"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:103
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:104
 msgid "Rescue the Prince"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:115
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:70
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:116
 #: The_Life_Of_A_Mage/scenarios/13_Old_Friends.cfg:73
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:67
 msgid "Death of Arand II"
 msgstr ""
 
 #. [message]: role=messenger
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:145
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:146
 msgid "There he is! Prince Arand! Your highness, I brought reenforcements!"
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:149
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:150
 msgid "Thank you, Lieutenant! Now we may have a chance against these villains!"
 msgstr ""
 
 #. [message]: speaker=Hugo
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:153
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:154
 msgid ""
 "Oh crud! They brought reenforcements! Quick, we must destroy them before "
 "they can attack!"
 msgstr ""
 
 #. [message]: speaker=Ryan
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:157
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:158
 msgid "Aye!"
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:161
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:162
 msgid "Don't worry, prince! We're coming to save you!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:172
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:173
 msgid "No, not now..."
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:186
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:187
 msgid "No, we must save the prince!"
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:200
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:201
 msgid "Curses!"
 msgstr ""
 
 #. [message]: role=messenger
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:214
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:215
 msgid "Alas, I have fallen..."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:222
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:223
 msgid "Phew! I'm glad that's over."
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:226
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:227
 msgid "I must thank you, friends. I owe you my life."
 msgstr ""
 
 #. [message]: speaker=Morien
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:230
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:231
 msgid "Oh, it was nothing."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:234
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:235
 msgid ""
 "I'm glad we could help. Is there anything else we could do for you, your "
 "highness?"
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:238
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:239
 msgid ""
 "Come with me to my father's castle, so we may reward you for saving my life."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:242
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:243
 msgid "It's really not necessary..."
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:246
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:247
 msgid ""
 "Come! That is an order. There is too little good in the world, to let it go "
 "unnoticed!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:250
+#: The_Life_Of_A_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:251
 msgid "Oh, alright."
 msgstr ""
 
@@ -2732,27 +2737,30 @@ msgid "A Royal Greeting"
 msgstr ""
 
 #. [side]: type=King, description=Konrad
-#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:29
 #: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:30
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:29
 #: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:29
-#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:29
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:30
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:30
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:29
 msgid "Konrad"
 msgstr ""
 
 #. [unit]: type=Queen, description=Li'sar
-#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:37
 #: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:52
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:37
 #: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:37
-#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:37
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:48
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:39
+#: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:37
 msgid "Li'sar"
 msgstr ""
 
 #. [unit]: type=Junior Prince, description=Eldaric
-#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:52
 #: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:60
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:52
 #: The_Life_Of_A_Mage/scenarios/10-1_A_Royal_Greeting.cfg:52
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:49
 #: The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:52
 msgid "Eldaric V"
 msgstr ""
@@ -2994,8 +3002,9 @@ msgid ""
 msgstr ""
 
 #. [unit]: type=Junior Princess, description=Ana'sar
-#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:200
 #: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:69
+#: The_Life_Of_A_Mage/scenarios/10-2_Uneasy_Tidings.cfg:200
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:60
 msgid "Ana'sar"
 msgstr ""
 
@@ -3389,8 +3398,8 @@ msgid ""
 "Yes, and I'll tell you what I see! A human failure. You could have been a "
 "great man, Slinian. You could have done something good for this world. But "
 "you blew it. And you see where it's taken you. You are a cruel, evil man, "
-"who lives underground, preying upon the souls of you're fellow beings. "
-"You're a wreck. I can even see you are aging faster than normal."
+"who lives underground, preying upon the souls of your fellow beings. You're "
+"a wreck. I can even see you are aging faster than normal."
 msgstr ""
 
 #. [message]: speaker=Slinian
@@ -3596,7 +3605,7 @@ msgstr ""
 #: The_Life_Of_A_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:380
 msgid ""
 "I found his journal. I discovered who he was. What he had done...But I was "
-"not the coward he was! I studied his books of magic, desprately trying to "
+"not the coward he was! I studied his books of magic, desperately trying to "
 "become what he had become. Because I knew I could be greater! I could rule "
 "Wesnoth!"
 msgstr ""
@@ -3854,22 +3863,22 @@ msgid "Escape"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, description=Eulias
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:42
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:45
 msgid "Eulias"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:59
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:62
 msgid "Defeat Eulias"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:77
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:80
 msgid "Arand! I was worried about you! What happened?"
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:81
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:84
 msgid ""
 "Well, these necromancers certainly aren't very hospitable to guests. They "
 "locked us up right after you left. However the undead guards suddenly went "
@@ -3877,39 +3886,39 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:85
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:88
 msgid ""
 "Good thing you escaped. I don't think I would have had enough men to rescue "
 "you."
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:89
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:92
 msgid "We fought our way out, of course. So where's Slinian?"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:93
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:96
 msgid "Dead."
 msgstr ""
 
 #. [message]: speaker=Arand
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:97
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:100
 msgid "That would explain the guards behavior."
 msgstr ""
 
 #. [message]: speaker=Eulias
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:101
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:104
 msgid "Hey! Escaped prisoners! Get them!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:105
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:108
 msgid "Looks like it's not over yet."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:113
+#: The_Life_Of_A_Mage/scenarios/12_Escape.cfg:116
 msgid ""
 "Let leave this place. Arand, I need to speak with your father immediately. "
 "This is extremely urgent."
@@ -4075,25 +4084,21 @@ msgid "...thank...you......your...."
 msgstr ""
 
 #. [scenario]
-#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:3
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:3
 msgid "A Daring Rescue"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, description=Bogdish
-#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:100
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:81
 msgid "Bogdish"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:121
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:112
 msgid "Defeat all enemy leaders."
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:125
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:116
 msgid "Death of any Hero Unit"
 msgstr ""
@@ -4160,8 +4165,8 @@ msgstr ""
 #. [message]: speaker=Lhyron
 #: The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:205
 msgid ""
-"Gilder! We are experiencing the armegeddon! If you would kindly refrain "
-"until we are out of danger!"
+"Gilder! Please feel free to voice your opinion WHILE WE ARE FIGHTING FOR OUR "
+"LIVES!"
 msgstr ""
 
 #. [message]: speaker=Gilder
@@ -4194,6 +4199,287 @@ msgstr ""
 msgid "Well sire, I am ashamed to tell you this, but I have to."
 msgstr ""
 
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:3
+msgid "The Elves"
+msgstr ""
+
+#. [side]: type=Elvish Marshal, description=Galdrier
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:80
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:73
+msgid "Galdrier"
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:90
+msgid ""
+"The king listened quietly while Dillon related the entire story of the "
+"Icestone, up to his own part in restoring Karin to power. When he had "
+"finished the king was silent..."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:93
+msgid ""
+"When he spoke he said there was nothing for it but to do whatever necessary "
+"to destroy Karin. First however they needed to find refuge to regroup and "
+"plan. Ana'sar had the answer...the elves of Aethenwood."
+msgstr ""
+
+#. [part]
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:96
+msgid ""
+"Elves are mysterious beings. Born with a love of nature, they live among the "
+"trees, and have an incredibly long lifespan. Elves don't often consort with "
+"humans, but the Elves of Aethenwood had been very friendly to King Konrad in "
+"the past. Princess Ana'sar had recently met with them over a matter of great "
+"importance."
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:120
+msgid "Halt! I am Galdrier, son of Galdred. Who goes there?"
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:124
+msgid "Peace friend. It is only us."
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:128
+msgid ""
+"Ah, the King of Wesnoth. No doubt you have come to aid us in our time of "
+"need?"
+msgstr ""
+
+#. [message]: speaker=Ana'sar
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:132
+msgid ""
+"Indeed we intend to help you in respect to your plight, but alas, we are "
+"also in need of aid."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:136
+msgid ""
+"There is a new foe abroad. A necromancer who is utilizing a very powerful "
+"dark artifact. He has already taken the city of Weldyn. We ask only a place "
+"to stay and plan."
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:140
+msgid ""
+"King, you and I are friends, and I would that I could give you what you ask. "
+"However we are barely able to sustain ourselves. As you have no doubt heard, "
+"we have recently suffered several raids from the lizard-men of the eastern "
+"marsh."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:144
+msgid ""
+"We are aware of this, and we would not ask for something we are not willing "
+"to pay for. Would you allow us to help you defeat the saurians?"
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:148
+msgid ""
+"Hmm, we are greatly hindered in the swamps and therefor we cannot retaliate. "
+"With your help we may have a chance of driving them off. If you help us we "
+"will do everything we can to aid you."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:152
+msgid "It's a deal then."
+msgstr ""
+
+#. [scenario]
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:3
+msgid "Battle For The Swamps"
+msgstr ""
+
+#. [side]: type=Saurian Flanker, description=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:85
+msgid "Xirasz"
+msgstr ""
+
+#. [side]: type=Saurian Oracle, description=Kezz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:97
+msgid "Kezz"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:133
+msgid "Defeat Xirasz"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:137
+msgid "Death of any hero"
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:148
+msgid "We are here! Let us make this scum pay for what they did to our people!"
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:152
+msgid ""
+"Haszz...the elvessz sscum are here...and they have friendszz. Quickly, take "
+"armszz."
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:163
+msgid "Ssszzzz...stupid elvsz!"
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:167
+msgid "That's for what you did to us!"
+msgstr ""
+
+#. [message]: speaker=Arand
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:171
+msgid "Taste justice, slimy fiends!"
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:175
+msgid ""
+"Jusstisse? You attack uss, burn our villagesszz to the ground, murder our "
+"hatchlingsszz, then sayz we are evil for fighting back. You have an "
+"interessting ssensse of good and evil."
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:179
+msgid "What? You attacked us without cause! We never did anything to you!"
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:183
+msgid ""
+"You lie! You elvsz raided our villagesz. Leave none alive. All dead. How "
+"dare you say we attacked you without causzze?!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:187
+msgid "What is this?"
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:191
+msgid "I have no idea what he's babbling about."
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:195
+msgid "You actually saw elves murdering your people?"
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:199
+msgid ""
+"Ssszzz...no. Entire villagesszz burned. None alive. None to tell who. "
+"Nasssty elveszz izz the only oneszz who could have done it."
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:203
+msgid "We never attacked anyone!"
+msgstr ""
+
+#. [message]: speaker=Dillon
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:207
+msgid ""
+"Wait, you were attacked by an unknown enemy. It might not have been the "
+"elves then. We were recently attacked by undead. Do you think they may have "
+"attacked you too?"
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:211
+msgid ""
+"Ssszzz...Zombiezz, Ssskeletonszz, of course. They feel nothing. They murder "
+"hatchlingzz. They burn villages."
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:215
+msgid "Those unholy beasts!"
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:219
+msgid "I owezzz you an apology. We attacked you unfairly."
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:223
+msgid ""
+"No, I understand your anger. I must apologize for the hatred my people had "
+"for you."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:227
+msgid ""
+"I am afraid we are all in deadly peril. These undead fiends must be stopped. "
+"I believe the only way is to unite against this new threat."
+msgstr ""
+
+#. [message]: speaker=Xirasz
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:231
+msgid "We izz with you!"
+msgstr ""
+
+#. [message]: speaker=Galdrier
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:235
+msgid "We will fight to the death to rid the land of such scum."
+msgstr ""
+
+#. [message]: speaker=Konrad
+#: The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:239
+msgid "Thank you friends. We are all in this together! "
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Advanced_Apprentice_Mage.cfg:5
+msgid "Advanced Apprentice Mage"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Advanced_Apprentice_Mage.cfg:22
+msgid ""
+"These apprentices study much harder than their compatriots, and set to "
+"become extraordinary magi.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Life_Of_A_Mage/units/Peasant_Wife.cfg:100
+#: The_Life_Of_A_Mage/units/Mystical_Mage.cfg:33
+#: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:26
+#: The_Life_Of_A_Mage/units/Legendary_Mage.cfg:33
+#: The_Life_Of_A_Mage/units/Advanced_Apprentice_Mage.cfg:27
+#: The_Life_Of_A_Mage/units/Elite_Mage.cfg:30
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:35
+#: The_Life_Of_A_Mage/units/Advanced_Apprentice_Mage.cfg:36
+msgid "magic puff"
+msgstr ""
+
 #. [unit]: race=human
 #: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:5
 msgid "Apprentice Mage"
@@ -4209,7 +4495,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:115
+#: The_Life_Of_A_Mage/units/Apprentice_Mage.cfg:117
 msgid "female^Apprentice Mage"
 msgstr ""
 
@@ -4239,10 +4525,10 @@ msgstr ""
 
 #. [attack]: type=blade
 #: The_Life_Of_A_Mage/units/Battle_Princess.cfg:35
+#: The_Life_Of_A_Mage/units/Lady.cfg:33 The_Life_Of_A_Mage/units/Queen.cfg:35
 #: The_Life_Of_A_Mage/units/Princess.cfg:33
-#: The_Life_Of_A_Mage/units/Queen.cfg:35 The_Life_Of_A_Mage/units/Lady.cfg:33
-#: The_Life_Of_A_Mage/units/CommanderF.cfg:31
 #: The_Life_Of_A_Mage/units/Junior_Princess.cfg:22
+#: The_Life_Of_A_Mage/units/CommanderF.cfg:31
 msgid "sabre"
 msgstr ""
 
@@ -4263,18 +4549,20 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: The_Life_Of_A_Mage/units/King.cfg:35
 #: The_Life_Of_A_Mage/units/Junior_Prince.cfg:22
-#: The_Life_Of_A_Mage/units/Fighteress.cfg:24
-#: The_Life_Of_A_Mage/units/Prince.cfg:31 The_Life_Of_A_Mage/units/Lord.cfg:34
+#: The_Life_Of_A_Mage/units/Lord.cfg:34
 #: The_Life_Of_A_Mage/units/Commander.cfg:31
+#: The_Life_Of_A_Mage/units/Fighteress.cfg:24
+#: The_Life_Of_A_Mage/units/King.cfg:35
 #: The_Life_Of_A_Mage/units/Fighter.cfg:24
+#: The_Life_Of_A_Mage/units/Prince.cfg:31
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_Life_Of_A_Mage/units/King.cfg:44 The_Life_Of_A_Mage/units/Lord.cfg:43
+#: The_Life_Of_A_Mage/units/Lord.cfg:43
 #: The_Life_Of_A_Mage/units/Commander.cfg:40
+#: The_Life_Of_A_Mage/units/King.cfg:44
 msgid "bow"
 msgstr ""
 
@@ -4318,6 +4606,26 @@ msgid ""
 "Walking Corpses are the bodies of the dead, re-animated by dark magic. "
 "Though not especially dangerous to a trained soldier, the sight of one's "
 "former comrades amongst their number is frightening to say the least."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Elite_Mage.cfg:4
+msgid "Elite Mage"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Elite_Mage.cfg:18
+msgid ""
+"The trials these magi must undergo are difficult to say the least. Those who "
+"do succeed however are then considered the elite of the magi order. Also "
+"their great skill often causes others to look to them for direction."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Life_Of_A_Mage/units/Mystical_Mage.cfg:42
+#: The_Life_Of_A_Mage/units/Legendary_Mage.cfg:42
+#: The_Life_Of_A_Mage/units/Elite_Mage.cfg:39
+msgid "fireball"
 msgstr ""
 
 #. [unit]: race=human
@@ -4427,6 +4735,25 @@ msgid ""
 msgstr ""
 
 #. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Legendary_Mage.cfg:4
+msgid "Legendary Mage"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Legendary_Mage.cfg:19
+msgid ""
+"These powerful magi rarely appear in Wesnoth, and only in times of great "
+"need. These people have seen terrible things, and in their suffering gained "
+"the experience necessary to combat such evil."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Life_Of_A_Mage/units/Mystical_Mage.cfg:53
+#: The_Life_Of_A_Mage/units/Legendary_Mage.cfg:53
+msgid "lightbeam"
+msgstr ""
+
+#. [unit]: race=human
 #: The_Life_Of_A_Mage/units/Lord.cfg:5
 msgid "Lord"
 msgstr ""
@@ -4438,6 +4765,21 @@ msgid ""
 "combat, and also possess skill with the bow. Like Commanders, Lords possess "
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Mystical_Mage.cfg:4
+msgid "Mystical Mage"
+msgstr ""
+
+#. [unit]: race=human
+#: The_Life_Of_A_Mage/units/Mystical_Mage.cfg:20
+msgid ""
+"The art of magic is mysterious by nature. Those who take the time to fathom "
+"the world around them are often rewarded.\n"
+"\n"
+"These men and women have pushed the bounderies in more ways than one, and "
+"are even able to call upon the otherworldly in aid them."
 msgstr ""
 
 #. [male]: race=human
@@ -4475,7 +4817,7 @@ msgid "Peasant Wife"
 msgstr ""
 
 #. [unit]: race=human
-#: The_Life_Of_A_Mage/units/Peasant_Wife.cfg:29
+#: The_Life_Of_A_Mage/units/Peasant_Wife.cfg:31
 msgid ""
 "While their husbands spend the day working in the fields, the women's main "
 "job is to take care of the house and raise the family.\n"
@@ -4486,11 +4828,6 @@ msgid ""
 "\n"
 "Like all good mothers, they have the knowledge of healing necessary to fix "
 "up anything from cuts and scrapes, to minor war wounds."
-msgstr ""
-
-#. [attack]: type=impact
-#: The_Life_Of_A_Mage/units/Peasant_Wife.cfg:98
-msgid "staff"
 msgstr ""
 
 #. [unit]: race=human
@@ -4551,32 +4888,6 @@ msgstr ""
 msgid "This Wesnothian leader has been wounded in combat."
 msgstr ""
 
-#. [stones]
-#: The_Life_Of_A_Mage/utils/abilities.cfg:6
-msgid "freezes"
-msgstr ""
-
-#. [stones]
-#: The_Life_Of_A_Mage/utils/abilities.cfg:8
-msgid ""
-"Freezes:\n"
-"This attack freezes an opponent in ice. Units that have been frozen may not "
-"move or attack."
-msgstr ""
-
-#. [resistance]
-#: The_Life_Of_A_Mage/utils/abilities.cfg:23
-msgid "maternal"
-msgstr ""
-
-#. [resistance]
-#: The_Life_Of_A_Mage/utils/abilities.cfg:25
-msgid ""
-"Maternal:\n"
-"This unit's resistances are doubled, up to a maximum of 50%, when defending. "
-"Vulnerabilities are not affected."
-msgstr ""
-
 #. [message]: speaker=unit
 #: The_Life_Of_A_Mage/utils/deaths.cfg:12
 msgid "What a fool I am! I have led you all to failure!"
@@ -4602,9 +4913,14 @@ msgstr ""
 msgid "I have lived such a long time..."
 msgstr ""
 
+#. [message]: speaker=Leogwyn
+#: The_Life_Of_A_Mage/utils/deaths.cfg:83
+msgid "%#*!@"
+msgstr ""
+
 #. [message]: speaker=unit
 #: The_Life_Of_A_Mage/utils/deaths.cfg:127
-msgid "@%*(#^#!@$*#@&$(!"
+msgid "%*(#^#!@$*#@&$(!"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -4654,17 +4970,53 @@ msgstr ""
 
 #. [trait]
 #: The_Life_Of_A_Mage/utils/traits.cfg:6
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:6
 msgid "strong willed"
 msgstr ""
 
 #. [trait]
 #: The_Life_Of_A_Mage/utils/traits.cfg:7
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:7
 msgid "female^strongwilled"
 msgstr ""
 
 #. [trait]
 #: The_Life_Of_A_Mage/utils/traits.cfg:8
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:8
 msgid "A strong willed magi can conjure more powerful spells."
+msgstr ""
+
+#. [resistance]
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:32
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:33
+msgid "maternal"
+msgstr ""
+
+#. [resistance]
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:35
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:37
+msgid ""
+"Maternal:\n"
+"This mother's resistances automatically set to 50% when defending her young."
+msgstr ""
+
+#. [hides]
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:46
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:47
+msgid "swampstalk"
+msgstr ""
+
+#. [hides]
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:51
+#: The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:55
+msgid ""
+"Swampstalker:\n"
+"Due to their small frames and fragile bodies, these lizards have learned to "
+"hide in the swamps.\n"
+"\n"
+"Enemy units cannot see this unit while it is in swamp, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
 msgstr ""
 
 #. [object]
@@ -4673,16 +5025,16 @@ msgid "To Be Continued"
 msgstr ""
 
 #. [object]: description=_ {DESCRIPTION}
-#: The_Life_Of_A_Mage/utils/utils.cfg:247
+#: The_Life_Of_A_Mage/utils/utils.cfg:245
 msgid "Icestone"
 msgstr ""
 
 #. [effect]: type=cold
-#: The_Life_Of_A_Mage/utils/utils.cfg:258
+#: The_Life_Of_A_Mage/utils/utils.cfg:255
 msgid "icytouch"
 msgstr ""
 
 #. [effect]: type=cold
-#: The_Life_Of_A_Mage/utils/utils.cfg:271
+#: The_Life_Of_A_Mage/utils/utils.cfg:268
 msgid "icebeam"
 msgstr ""
