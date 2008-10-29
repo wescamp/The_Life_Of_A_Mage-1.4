@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-10-14 18:42+0200\n"
+"POT-Creation-Date: 2008-10-29 22:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,8 +35,8 @@ msgstr ""
 msgid ""
 "The young boy Dillon only wanted to live his life in peace. After his village is destroyed by bandits however, he is forced to throw his lot with the magi. It is a difficult life, and little does he know that his destiny may lie along side that of Prince Arand II himself.\n"
 "\n"
-"(Intermediate level, 23 scenarios, Unfinished)\n"
-"version 0.2.7"
+"(Intermediate level, 25 scenarios, Unfinished)\n"
+"version 0.5.1"
 msgstr ""
 
 #. [about]
@@ -70,12 +70,12 @@ msgid "Graphics stolen from various versions of the following:"
 msgstr ""
 
 #. [about]
-#: ./The_Life_Of_A_Mage/_main.cfg:90
+#: ./The_Life_Of_A_Mage/_main.cfg:89
 msgid "Graphical Editing and Hodge-podging"
 msgstr ""
 
 #. [about]
-#: ./The_Life_Of_A_Mage/_main.cfg:96
+#: ./The_Life_Of_A_Mage/_main.cfg:95
 msgid "Music and Sound"
 msgstr ""
 
@@ -151,7 +151,7 @@ msgstr ""
 #. [message]: speaker=unit
 #. [message]: speaker=Jamarn
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:246 ./The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:287 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:633 ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:162 ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:384 ./The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:199
+#: ./The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:246 ./The_Life_Of_A_Mage/scenarios/01_First_Try.cfg:287 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:657 ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:162 ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:384 ./The_Life_Of_A_Mage/scenarios/10-3_Undead_Threat.cfg:199
 msgid "But..."
 msgstr ""
 
@@ -217,7 +217,7 @@ msgstr ""
 
 #. [message]: speaker=Karin
 #: ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:368
-msgid "Ha, ha, you know what to do, men! Plunder the village!"
+msgid "Ha, ha, you know what to do, men! Plunder the village! And be sure to bring me the head of the old man."
 msgstr ""
 
 #. [message]: speaker=Olaf
@@ -321,13 +321,18 @@ msgstr ""
 msgid "Olaf!"
 msgstr ""
 
+#. [message]: speaker=Karin
+#: ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:575
+msgid "Foolish old man. It is settled."
+msgstr ""
+
 #. [message]: role=Childwelfare
-#: ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:586
+#: ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:590
 msgid "Oh! Have you no heart? Those are children!"
 msgstr ""
 
 #. [message]: speaker=Karin
-#: ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:590
+#: ./The_Life_Of_A_Mage/scenarios/00_1_Townsquare.cfg:594
 msgid "Silence!"
 msgstr ""
 
@@ -364,7 +369,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #. [message]: speaker=Arand
 #. [message]: speaker=Marcos
-#: ./The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:272 ./The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:154 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:199 ./The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:118
+#: ./The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:272 ./The_Life_Of_A_Mage/scenarios/15_A_Daring_Rescue.cfg:154 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:200 ./The_Life_Of_A_Mage/scenarios/00_2_Adventure.cfg:118
 msgid "..."
 msgstr ""
 
@@ -965,293 +970,298 @@ msgid "Death of any apprentice"
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:167
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:168
 msgid "Well, here we are. Welcome to the dungeons."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:171
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:172
 msgid "(shudder) I don't like this place."
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:175
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:176
 msgid "Are you coming or not, Lhyron?"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:179
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:180
 msgid "You would have me be a coward? Of course I'm coming. I was just seeing how much courage I'll need."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:183
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:184
 msgid "Sure..."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:187
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:188
 msgid "So, Marcos, you said there was a trap door somewhere in here?"
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:191
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:192
 msgid "Yes, I found it on my last excursion down here."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:195
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:196
 msgid "You've been here before? I thought this was a forbidden area."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:203
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:204
 msgid "Impressive."
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:207
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:208
 msgid "Sorry to interupt, but we're wasting time."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:211
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:212
 msgid "I agree with Mordrid. We need to hurry, if we're going to pull this off tonight."
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:215
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:216
 msgid "Wait! How are we going to pay the students who are helping us? There's no source of income down here!"
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:219
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:220
 msgid "I have arranged for some of my other friends to pool their resources to give us a steady income."
 msgstr ""
 
 #. [unit]: description=Elendil, type=White Mage
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:240 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:556
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:241 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:580
 msgid "Elendil"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:251
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:252
 msgid "Eh? Living beings? Mortals. I am not alone then..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:255
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:256
 msgid "Huh? Who are you?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:259
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:260
 msgid "I am nobody. I do not matter anymore. I am finished."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:263
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:264
 msgid "Now, what kind of talk is that? Of course you're somebody."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:267
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:268
 msgid "As I said, I do not matter now. Does one individual matter when they have been separated from society for unnumerable years?"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:271
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:272
 msgid "Separated from society? For years? You?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:275
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:276
 msgid "I have been lost in this blackness for I do not know how long. I have lost track of the years. I don't even know if it is day or night. I suppose you're lost too."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:279
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:280
 msgid "Lost? We know exactly where the entrance is! We're only here because of a quest."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:283
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:284
 msgid "You know the way out? No, you are lying. You are as lost as I am. Well, let us unite against these blasted ghosts! Then we shall discuss this."
 msgstr ""
 
 #. [message]: speaker=Dillon
 #. [message]: speaker=Headmaster
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:287 ./The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:184
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:288 ./The_Life_Of_A_Mage/scenarios/07_Old_Enemies.cfg:184
 msgid "Very well."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:303
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:304
 msgid "I've found it! The trap door!"
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:307
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:308
 msgid "I knew it was there!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:311
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:312
 msgid "Now we're that much closer to finding the Icestone."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:315
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:316
 msgid "Down I gooooooo..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:335 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:390
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:336 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:391
 msgid "You cannot pass through the trapdoor while another unit is at the other end."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:441
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:442
 msgid "Aiee! This place IS haunted!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:445
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:446
 msgid "Don't panic!"
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:449
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:450
 msgid "Kill it!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:453
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:454
 msgid "EEEEEEEEEEE!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:457
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:458
 msgid "(shudder)"
 msgstr ""
 
+#. [message]: speaker=Mordrid
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:479
+msgid "The cavern seems quiet now... I don't hear any more telltale noises of those ghosts."
+msgstr ""
+
 #. [message]: role=Doomsday
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:475
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:499
 msgid "He's dead! We'll be expelled for sure!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:499
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:523
 msgid "Dillon! I found a way out!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:503
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:527
 msgid "I'm on my way!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:516
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:540
 msgid "Come on! We're running out of time!"
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:520
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:544
 msgid "This quest isn't all that fun, you know."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:542 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:567
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:566 ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:591
 msgid "WAIT!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:546
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:570
 msgid "What? Is there a problem?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:550
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:574
 msgid "This is not the exit. This must be south. The entrance is north. We must move in the opposite direction."
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:571
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:595
 msgid "Hey! Who are you?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:575
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:599
 msgid "This is not the exit. This is south. The entrance is north. You must move in the opposite direction."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:581
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:605
 msgid "But we are not trying to get out. We are on a quest."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:585
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:609
 msgid "Quest? What quest could possibly lead you down here!?"
 msgstr ""
 
 #. [message]: speaker=Marcos
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:589
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:613
 msgid "We are searching for the Icestone."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:593
-msgid "THE ICESTONE!!? The Icestone was sealed away for a reason! If it were to get into the wrong hands, the results could be disasterous! Leave it as it is, away from lustful eyes!"
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:617
+msgid "THE ICESTONE!!? The Icestone was sealed away for a reason! If it were to get into the wrong hands, the results could be disastrous! Leave it as it is, away from lustful eyes!"
 msgstr ""
 
 #. [message]: speaker=Lhyron
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:597
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:621
 msgid "Leave the Icestone? After all this? Impossible! Everything would be wasted!"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:601
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:625
 msgid "If it is a choice between that, and the powers of the Icestone being used for evil, I will take to former!"
 msgstr ""
 
 #. [message]: speaker=Slinian
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:605
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:629
 msgid "We could keep it safe! We would use it for good!"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:609
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:633
 msgid "You think? Who knows, perhaps you would use it well. But could you protect it from ones who would use it otherwise?"
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:613
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:637
 msgid "I am worried about you. The Stone can be used for good, but it has a natural evil. The lust for power. It corrupts the soul. That is the danger."
 msgstr ""
 
 #. [message]: speaker=Mordrid
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:617
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:641
 msgid "Sir, if you do not trust us, do you trust Dillon?"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:621
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:645
 msgid "What? Why would he..."
 msgstr ""
 
 #. [message]: speaker=Elendil
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:625
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:649
 msgid "Yes, there is something about you, boy. I can feel it. Yes, I believe if anyone were worthy of taking the Stone it would be you. But you are too young, and inexperienced. If you are to use it, it is not now. Wait. When you are ready, many years from now, you will return to take the stone."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:629
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:653
 msgid "Very well. Come on, friends, Let us leave this place."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:637
+#: ./The_Life_Of_A_Mage/scenarios/03-1_The_Catacombs.cfg:661
 msgid "Go!"
 msgstr ""
 
@@ -1382,7 +1392,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: ./The_Life_Of_A_Mage/scenarios/04_The_Icestone.cfg:173
-msgid "Death of Dillon or Lhyron"
+msgid "Death of Dillon, Lhyron, Slinian or Jamarn"
 msgstr ""
 
 #. [objective]: condition=win
@@ -3670,47 +3680,47 @@ msgid "Elves are mysterious beings. Born with a love of nature, they live among 
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:120
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:136
 msgid "Halt! I am Galdrier, son of Galdred. Who goes there?"
 msgstr ""
 
 #. [message]: speaker=Konrad
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:124
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:140
 msgid "Peace friend. It is only us."
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:128
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:144
 msgid "Ah, the King of Wesnoth. No doubt you have come to aid us in our time of need?"
 msgstr ""
 
 #. [message]: speaker=Ana'sar
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:132
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:148
 msgid "Indeed we intend to help you in respect to your plight, but alas, we are also in need of aid."
 msgstr ""
 
 #. [message]: speaker=Konrad
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:136
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:152
 msgid "There is a new foe abroad. A necromancer who is utilizing a very powerful dark artifact. He has already taken the city of Weldyn. We ask only a place to stay and plan."
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:140
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:156
 msgid "King, you and I are friends, and I would that I could give you what you ask. However we are barely able to sustain ourselves. As you have no doubt heard, we have recently suffered several raids from the lizard-men of the eastern marsh."
 msgstr ""
 
 #. [message]: speaker=Konrad
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:144
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:160
 msgid "We are aware of this, and we would not ask for something we are not willing to pay for. Would you allow us to help you defeat the saurians?"
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:148
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:164
 msgid "Hmm, we are greatly hindered in the swamps and therefor we cannot retaliate. With your help we may have a chance of driving them off. If you help us we will do everything we can to aid you."
 msgstr ""
 
 #. [message]: speaker=Konrad
-#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:152
+#: ./The_Life_Of_A_Mage/scenarios/16_The_Elves.cfg:168
 msgid "It's a deal then."
 msgstr ""
 
@@ -3730,122 +3740,122 @@ msgid "Kezz"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:133
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:138
 msgid "Defeat Xirasz"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:137
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:142
 msgid "Death of any hero"
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:148
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:153
 msgid "We are here! Let us make this scum pay for what they did to our people!"
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:152
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:157
 msgid "Haszz...the elvessz sscum are here...and they have friendszz. Quickly, take armszz."
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:163
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:168
 msgid "Ssszzzz...stupid elvsz!"
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:167
-msgid "That's for what you did to us!"
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:172
+msgid "Thats for what you did to us!"
 msgstr ""
 
 #. [message]: speaker=Arand
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:171
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:176
 msgid "Taste justice, slimy fiends!"
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:175
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:180
 msgid "Jusstisse? You attack uss, burn our villagesszz to the ground, murder our hatchlingsszz, then sayz we are evil for fighting back. You have an interessting ssensse of good and evil."
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:179
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:184
 msgid "What? You attacked us without cause! We never did anything to you!"
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:183
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:188
 msgid "You lie! You elvsz raided our villagesz. Leave none alive. All dead. How dare you say we attacked you without causzze?!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:187
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:192
 msgid "What is this?"
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:191
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:196
 msgid "I have no idea what he's babbling about."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:195
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:200
 msgid "You actually saw elves murdering your people?"
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:199
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:204
 msgid "Ssszzz...no. Entire villagesszz burned. None alive. None to tell who. Nasssty elveszz izz the only oneszz who could have done it."
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:203
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:208
 msgid "We never attacked anyone!"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:207
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:212
 msgid "Wait, you were attacked by an unknown enemy. It might not have been the elves then. We were recently attacked by undead. Do you think they may have attacked you too?"
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:211
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:216
 msgid "Ssszzz...Zombiezz, Ssskeletonszz, of course. They feel nothing. They murder hatchlingzz. They burn villages."
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:215
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:220
 msgid "Those unholy beasts!"
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:219
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:224
 msgid "I owezzz you an apology. We attacked you unfairly."
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:223
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:228
 msgid "No, I understand your anger. I must apologize for the hatred my people had for you."
 msgstr ""
 
 #. [message]: speaker=Konrad
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:227
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:232
 msgid "I am afraid we are all in deadly peril. These undead fiends must be stopped. I believe the only way is to unite against this new threat."
 msgstr ""
 
 #. [message]: speaker=Xirasz
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:231
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:236
 msgid "We izz with you!"
 msgstr ""
 
 #. [message]: speaker=Galdrier
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:235
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:240
 msgid "We will fight to the death to rid the land of such scum."
 msgstr ""
 
 #. [message]: speaker=Konrad
-#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:239
+#: ./The_Life_Of_A_Mage/scenarios/17_Battle_For_The_Swamps.cfg:244
 msgid "Thank you friends. We are all in this together! "
 msgstr ""
 
@@ -4181,6 +4191,44 @@ msgstr ""
 msgid "This Wesnothian leader has been wounded in combat."
 msgstr ""
 
+#. [stones]
+#: ./The_Life_Of_A_Mage/utils/abilities.cfg:6
+msgid "freezes"
+msgstr ""
+
+#. [stones]
+#: ./The_Life_Of_A_Mage/utils/abilities.cfg:8
+msgid ""
+"Freezes:\n"
+"This attack freezes an opponent in ice. Units that have been frozen may not move or attack."
+msgstr ""
+
+#. [resistance]
+#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:30 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:31 ./The_Life_Of_A_Mage/utils/abilities.cfg:23
+msgid "maternal"
+msgstr ""
+
+#. [resistance]
+#: ./The_Life_Of_A_Mage/utils/abilities.cfg:25
+msgid ""
+"Maternal:\n"
+"This unit's resistances are doubled, up to a maximum of 50%, when defending. Vulnerabilities are not affected."
+msgstr ""
+
+#. [hides]
+#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:44 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:45 ./The_Life_Of_A_Mage/utils/abilities.cfg:34 ./The_Life_Of_A_Mage/utils/abilities.cfg:35
+msgid "swampstalk"
+msgstr ""
+
+#. [hides]
+#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:49 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:53 ./The_Life_Of_A_Mage/utils/abilities.cfg:39 ./The_Life_Of_A_Mage/utils/abilities.cfg:43
+msgid ""
+"Swampstalker:\n"
+"Due to their small frames and fragile bodies, these lizards have learned to hide in the swamps.\n"
+"\n"
+"Enemy units cannot see this unit while it is in swamp, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement."
+msgstr ""
+
 #. [message]: speaker=unit
 #: ./The_Life_Of_A_Mage/utils/deaths.cfg:12
 msgid "What a fool I am! I have led you all to failure!"
@@ -4277,29 +4325,10 @@ msgid "A strong willed magi can conjure more powerful spells."
 msgstr ""
 
 #. [resistance]
-#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:32 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:33
-msgid "maternal"
-msgstr ""
-
-#. [resistance]
-#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:35 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:37
+#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:33 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:35
 msgid ""
 "Maternal:\n"
 "This mother's resistances automatically set to 50% when defending her young."
-msgstr ""
-
-#. [hides]
-#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:46 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:47
-msgid "swampstalk"
-msgstr ""
-
-#. [hides]
-#: ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:51 ./The_Life_Of_A_Mage/utils/traits_and_abilities.cfg:55
-msgid ""
-"Swampstalker:\n"
-"Due to their small frames and fragile bodies, these lizards have learned to hide in the swamps.\n"
-"\n"
-"Enemy units cannot see this unit while it is in swamp, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement."
 msgstr ""
 
 #. [object]
